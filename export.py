@@ -1,9 +1,12 @@
 import csv
 import os
+import time
 
 from dotenv import load_dotenv
 from tqdm import tqdm
 from yandex_music import Client
+from yandex_music.exceptions import TimedOutError
+
 load_dotenv()
 
 TOKEN = os.environ.get("YANDEX_MUSIC_TOKEN")
@@ -25,12 +28,23 @@ fields = [
     "content_warning",
 ]
 
+
+def fetch_track_with_retry(track_short, retries=5, delay=3):
+    for attempt in range(retries):
+        try:
+            return track_short.fetch_track()
+        except TimedOutError:
+            if attempt + 1 == retries:
+                raise
+            time.sleep(delay * (attempt + 1))
+
+
 with open("yandex_music.csv", "w", newline="", encoding="utf-8") as f:
     writer = csv.DictWriter(f, fieldnames=fields)
     writer.writeheader()
 
     for track_short in tqdm(liked, desc="Экспорт треков"):
-        track = track_short.fetch_track()
+        track = fetch_track_with_retry(track_short)
         album = track.albums[0] if track.albums else None
         writer.writerow({
             "id": track.id,
