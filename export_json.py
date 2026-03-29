@@ -1,3 +1,4 @@
+import dataclasses
 import json
 import os
 import time
@@ -30,7 +31,5 @@ def fetch_track_with_retry(track_short, retries=5, delay=3):
 for track_short in tqdm(liked, desc="Экспорт треков"):
     track = fetch_track_with_retry(track_short)
     tracks.append(track)
-
-json.dump(tracks, open('tracks.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=4)
-
+json.dump([dataclasses.asdict(track) for track in tracks], open('tracks.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=4, default=lambda o: '<not serializable>')
 print(f"Готово. Всего треков: {len(liked)}")
