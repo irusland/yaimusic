@@ -1,8 +1,3 @@
-"""
-Merge yandex_music.csv tracks into Library.xml (iTunes/Apple Music format).
-Adds tracks as new entries and creates a "Yandex Music Liked" playlist.
-"""
-
 import csv
 import plistlib
 import xml.sax.saxutils as saxutils
@@ -12,7 +7,6 @@ import click
 
 
 def parse_date(s: str) -> str:
-    """Convert ISO date string to iTunes UTC format YYYY-MM-DDTHH:MM:SSZ."""
     try:
         dt = datetime.fromisoformat(s)
         if dt.tzinfo is None:
@@ -86,13 +80,9 @@ def playlist_xml(pl_id: int, track_ids: list[int]) -> str:
 @click.option("--out", "out_path", default="Library_merged.xml", show_default=True,
               type=click.Path(dir_okay=False), help="Путь для сохранения результата")
 def merge(csv_path: str, xml_path: str, out_path: str) -> None:
-    """Смёрживает треки из Yandex Music CSV в iTunes Library XML."""
-
-    # Читаем XML как текст (сохраняем оригинальное форматирование)
     with open(xml_path, "r", encoding="utf-8") as f:
         content = f.read()
 
-    # Парсим plist только чтобы получить существующие Track ID и Playlist ID
     with open(xml_path, "rb") as f:
         library = plistlib.load(f)
 
@@ -102,11 +92,9 @@ def merge(csv_path: str, xml_path: str, out_path: str) -> None:
     playlists = library.get("Playlists", [])
     max_pl_id = max((p.get("Playlist ID", 0) for p in playlists), default=0)
 
-    # Читаем CSV
     with open(csv_path, newline="", encoding="utf-8") as f:
         rows = list(csv.DictReader(f))
 
-    # Генерируем XML для треков
     new_track_ids: list[int] = []
     tracks_xml_parts: list[str] = []
 
@@ -119,8 +107,6 @@ def merge(csv_path: str, xml_path: str, out_path: str) -> None:
 
     new_tracks_block = "\n".join(tracks_xml_parts)
 
-    # Вставляем треки перед закрывающим </dict> секции Tracks
-    # Маркер: "\t</dict>\n\t<key>Playlists</key>"
     tracks_marker = "\t</dict>\n\t<key>Playlists</key>"
     if tracks_marker not in content:
         raise click.ClickException("Не найден маркер конца секции Tracks в XML.")
@@ -131,8 +117,6 @@ def merge(csv_path: str, xml_path: str, out_path: str) -> None:
         1,
     )
 
-    # Вставляем плейлист перед закрывающим </array> секции Playlists
-    # Маркер: последний "\t</array>\n</dict>\n</plist>"
     pl_marker = "\t</array>\n</dict>\n</plist>"
     if pl_marker not in content:
         raise click.ClickException("Не найден маркер конца секции Playlists в XML.")
