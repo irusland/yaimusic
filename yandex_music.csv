@@ -1,0 +1,668 @@
+id,title,artists,album,album_id,year,genre,duration_ms,added_at,available,content_warning
+142815695,NZT,DMON x ADONEL,Системная ошибка,38650406,2025,rusrap,143710,2026-03-14T20:20:17+00:00,True,explicit
+137661142,Accordion Techno Beat,Ganger Baster,Accordion Techno Beat,36006435,2025,dance,184610,2026-03-13T16:21:51+00:00,True,
+141538468,Заверни,NIKOS,Заверни,37654414,2025,rusrap,119000,2026-03-10T09:31:03+00:00,True,
+133654239,GRAU,UdieNnx,GRAU,34310995,2024,latinfolk,97860,2026-03-09T19:25:47+00:00,True,
+136704404,RITMO DO TAMBOR,"DYGO, Nulteex",RITMO DO TAMBOR,35652442,2025,electronics,89530,2026-03-09T18:44:51+00:00,True,
+130347747,Повесть,Экси,Повесть,32969324,2024,rusrap,126380,2026-03-08T09:30:37+00:00,True,explicit
+144369728,Eclipso,SkyCan,Eclipso,38825514,2025,alternative,154070,2026-03-07T10:21:44+00:00,True,
+146161763,Mania,"Overrated, r0pss, Frailty",Mania,39719505,2025,dance,163730,2026-03-07T10:18:59+00:00,True,
+890839,The Requiem,Linkin Park,A Thousand Suns,101563,2010,numetal,121120,2026-03-06T22:05:49+00:00,True,
+77225943,Непоправимо,"Osya, Platinum Monkey, D.Tarasyuk",Непоправимо,13675338,2021,pop,237270,2026-03-04T19:20:14+00:00,True,
+137557210,KRUSH INFERNAL,"DYGO, Mxng0, RAIZHELL",KRUSH INFERNAL,35963882,2025,dance,110180,2026-02-27T19:31:40+00:00,True,
+145065883,Tomorrow,ALBLAK 52,QUATTRO: La Famiglia,39144383,2025,rusrap,120000,2026-02-26T20:19:13+00:00,True,explicit
+133933536,VILLAGE FUNK!,"bear bear & friends, MVSTERIOUS, FUNK DEMON, EVO",SLAVA FUNK WORLDWIDE,34411743,2024,electronics,141460,2026-02-26T20:17:13+00:00,True,
+148137769,Актриса,"ICEGERGERT, Елизавета Базыкина",Глаз Бога,40626387,2026,rusrap,139740,2026-02-26T20:14:07+00:00,True,explicit
+139370315,Amor na Praia (Slowed),Flame Runner,Amor Na Praia,36713628,2025,electronics,101480,2026-02-26T18:13:39+00:00,True,
+123387216,Где-то в глубине сердца,"NAVAI, MACAN",Как Есенин,30069631,2024,ruspop,190800,2026-02-25T16:50:03+00:00,True,
+129164691,AVANGARD,LONOWN,Avangard,37728515,2024,dance,199450,2026-02-24T20:00:12+00:00,True,explicit
+139556882,FINA LANA (SLOWED),"6YNTHMANE, LXGHTXNG",FINA LANA (SLOWED),36793810,2025,electronics,90300,2026-02-24T19:53:34+00:00,True,explicit
+147748490,BATIDAO FUNK,"ZXKAI, Rezcaze, MC Kaique SP, Kingxnd",BATIDAO FUNK,40458494,2026,folk,120460,2026-02-24T19:05:48+00:00,True,
+132992016,Can't Get Enough,"hornja, Tehnik",Can't Get Enough,34040161,2023,dance,128930,2026-02-24T18:28:07+00:00,True,
+95725624,Эскизы,Xcho,Эскизы,19540284,2021,rusrap,170000,2026-02-21T21:04:12+00:00,True,
+144867454,Пообещай мне,"ТРАВМА, SODA LUV",[нулевая частота],39056035,2025,ruspop,120580,2026-02-20T20:31:38+00:00,True,
+148137770,G-Woman,ICEGERGERT,Глаз Бога,40626387,2026,rusrap,140800,2026-02-20T20:17:36+00:00,True,
+142319106,Next To Me,"WHYGLØØMY, Butch U",Next To Me,37977377,2025,electronics,92350,2026-02-20T20:13:09+00:00,True,
+144651412,"Ай, калина (Kavkaz Remix)","Koss, LIZA, kvmly, zovo","Ай, калина",38953802,2025,pop,132870,2026-02-20T19:57:59+00:00,True,explicit
+141289910,KAVKAZ,BVLVNS,KAVKAZ,37542236,2025,dance,137460,2026-02-20T19:48:59+00:00,True,
+143369525,мелочи,"Lizer, Highself",[некуда бежать],38745615,2025,ruspop,155120,2026-02-16T20:08:06+00:00,True,
+15282564,Твой танец,Триада,Исток,1669166,2013,rusrap,169410,2026-02-16T20:03:19+00:00,True,
+63805651,Отпусти,"Джиган, Юлия Савичева",Отпусти,10184698,2011,rusrap,198540,2026-02-16T19:49:03+00:00,True,
+108103901,"Плачь, но не звони",MACAN,"Плачь, но не звони",23802562,2022,rusrap,158460,2026-02-16T19:48:43+00:00,True,explicit
+138504764,С неба,"ELMAN, TRIDA",С неба,36350005,2025,ruspop,189040,2026-02-16T18:13:18+00:00,True,
+144294734,Khazar (Slowed),Emin Nilsen,Khazar (Slowed),38788573,2025,electronics,256620,2026-02-16T10:32:13+00:00,True,
+144232765,Hooligan,Emin Nilsen,Hooligan,38756969,2025,electronics,205330,2026-02-13T19:53:01+00:00,True,
+143087915,Caucasus,Emin Nilsen,Caucasus,38289256,2025,electronics,248000,2026-02-13T19:49:16+00:00,True,
+143087908,Khazar,Emin Nilsen,Khazar,38289248,2025,electronics,225880,2026-02-13T19:33:40+00:00,True,
+145335352,Ладони,"Ваня Дмитриенко, SALUKI",эмоции - последствия,39276241,2025,ruspop,205190,2026-02-11T19:08:39+00:00,True,
+147256671,Freaks,"New Beat Order, Robbe, Seeko",Freaks,40229480,2026,dance,106660,2026-02-10T16:57:44+00:00,True,
+110630693,"Не умеешь, не люби","MACAN, HammAli & Navai",12,24601658,2022,rusrap,251950,2026-02-09T19:59:07+00:00,True,
+143832369,В ночном плену,"Dan Korshunov, Mari Sa",В ночном плену,38575457,2025,pop,137940,2026-02-05T18:55:07+00:00,True,
+112185709,25032104,H8.HOOD,25032104,25182616,2023,rap,115000,2026-02-04T07:14:24+00:00,True,explicit
+144110676,Caucasian Source,YVMAN,Caucasian Source,38700743,2025,latinfolk,132750,2026-02-03T18:47:12+00:00,True,
+136391161,Обломки чувств,"BAbyBoi, Таня Терешина",Обломки чувств,35523074,2025,ruspop,107830,2026-02-02T07:18:12+00:00,True,
+3288696,Missing,Generation Mix,90's Boys Band Mix : Non Stop Medley Party,347425,2009,pop,112520,2026-02-01T20:16:38+00:00,True,
+141563508,SHADOW MARCH,NIGYL,SHADOW MARCH,37665432,2025,rap,154510,2026-01-31T19:07:23+00:00,True,explicit
+122100117,MST,"BAGARDI, Anahit",MST,29491957,2024,ruspop,144140,2026-01-31T19:01:22+00:00,True,
+281167,In The Heat Of The Night (2006),"Sandra, Felix J. Gauder",Reflections - The Reproduced Hits,28407,2006,pop,217290,2026-01-31T18:22:35+00:00,True,
+121898455,Настанет ночь,"ozmany, DИVИЩЕ",Настанет ночь,29397374,2024,rusrap,165640,2026-01-31T18:17:43+00:00,True,
+72070232,На свет,NOLA,На свет,12351057,2020,ruspop,235710,2026-01-31T09:16:32+00:00,True,
+117502529,Unendlichkeit,"MilleniumKid, JBS, The Boy The G",Unendlichkeit,27435339,2023,dance,172760,2026-01-27T17:08:47+00:00,True,
+142713236,На заре,"Monte&Manula, odinokoo",На заре,38140065,2025,ruspop,133330,2026-01-27T17:06:44+00:00,True,
+123157962,Люби любой,Monte&Manula,Люби любой,29959088,2024,ruspop,144400,2026-01-24T16:45:10+00:00,True,
+33146010,Сопрано,"MOT, Ани Лорак",Сопрано,4048254,2017,ruspop,209450,2026-01-23T08:37:47+00:00,True,
+138450428,Не повезло,Monte&Manula,Не повезло,36326947,2025,ruspop,125590,2026-01-23T08:16:15+00:00,True,
+136170621,Хочу другого,"VOLKONSKY, FILATOVA, Andy Shik",Хочу другого,38094307,2025,dance,101540,2026-01-21T11:55:51+00:00,True,
+79318704,Stories,MACAN,Stories,14401166,2021,rusrap,167090,2026-01-20T15:47:19+00:00,True,
+129481983,Стань злым,"Lostthunderdoom, Соли",Стань злым,32619244,2024,electronics,187200,2026-01-14T16:32:29+00:00,True,
+70473124,Я поднимаюсь над землей,"Баста, Алёна Омаргалиева, Krot",Я поднимаюсь над землей,11904599,2020,dnb,326510,2026-01-11T21:11:51+00:00,True,
+134276749,Indivisível,"I'unno, toggen, KrystallKid?",Indivisível,34555531,2024,rap,178950,2026-01-11T20:51:08+00:00,True,explicit
+128056615,Встретимся в аду,"hxvvxn, damnenby",Встретимся в аду,32064121,2024,electronics,138940,2026-01-10T16:30:10+00:00,True,
+145645857,По городу один,"KDDK, GROHOT",По городу один,39447046,2025,dance,180000,2026-01-09T17:56:50+00:00,True,
+144972339,lost on you x hoodtrap,"look the eyes, kiramo",lost on you x hoodtrap,39102920,2025,electronics,223490,2026-01-07T20:30:06+00:00,True,
+135264115,Heart,"Даша Боровик, Boracay",Heart,35011277,2025,ruspop,92300,2025-12-31T15:07:28+00:00,True,
+114951156,Мир начнётся с меня,ГРОТ,Мир начнётся с меня,26367732,2023,rusrap,255310,2025-12-31T11:15:57+00:00,True,
+138738539,Встретимся в аду,"sensattack, MidiKey",Встретимся в аду,36447692,2025,electronics,143530,2025-12-29T19:54:45+00:00,True,
+124985781,Gulyayu - Slowed,"ANGUISH, Exiled, Elfass",Gulyayu - Slowed,30782430,2024,dance,183490,2025-12-29T19:50:30+00:00,True,
+135421013,Оставь меня одну,Bayt production,I Dont Need a Relationship,36327417,2025,electronics,138330,2025-12-29T19:35:38+00:00,True,
+119810294,Одна,bebrua,Одна,28449009,2023,rap,150430,2025-12-29T19:26:21+00:00,True,
+141052584,ДАВАЙ ЗАЖЖЕМ,"uniqe, nkeeei, ARTEM SHILOVETS, Люся Чеботина",2007 ч.2,37434546,2025,rusrap,177060,2025-12-28T16:13:17+00:00,True,
+109647071,По переходам,f0lk,Выход,24286296,2022,rusrap,172240,2025-12-24T22:15:03+00:00,True,explicit
+120148272,Skuchno,"hxvvxn, Exiled",Skuchno,28595982,2023,electronics,162300,2025-12-21T10:03:37+00:00,True,
+130713843,The Emptiness Machine,Linkin Park,From Zero,33986148,2024,numetal,190420,2025-12-20T13:24:09+00:00,True,explicit
+135879967,Покажи мне любовь,"Полина Крапива, NIGHTMORSS",Покажи мне любовь,35294915,2025,house,157450,2025-12-18T17:51:32+00:00,True,
+134041686,Девочка-снег (Remix),"Нюта, hosy",Девочка-снег (Remix),34456795,2024,pop,144000,2025-12-17T20:25:44+00:00,True,
+141646330,Любовь и роботы,DMON x ADONEL,Системная ошибка,38650406,2025,rusrap,116750,2025-12-17T19:25:26+00:00,True,
+145779699,КОНТАКТ,f0lk,КОНТАКТ,39523376,2025,rusrap,115480,2025-12-17T19:20:09+00:00,True,
+145354769,За годом год Christmas Hardstyle,"всё никак, wavwav",За годом год Christmas Hardstyle,39288273,2025,dance,121270,2025-12-17T18:53:44+00:00,True,
+32038191,Нет никаких правил,Макс Корж,Жить в кайф,1683700,2013,rusrap,290080,2025-12-16T12:49:02+00:00,True,
+140557700,Виражи,"MANN1K, itgmq Hardstyle",Виражи,37214546,2025,dance,133380,2025-12-13T08:49:25+00:00,True,
+142982191,Помоги мне,СПЛЭШЪ,Помоги мне,38245915,2025,rap,113760,2025-12-07T12:05:45+00:00,True,explicit
+38033563,Магия возраста,ГРОТ,Ледокол «Вега»,4839817,2017,rusrap,204990,2025-12-05T17:46:02+00:00,True,
+144285432,Айс,Ageez,Айс,38783450,2025,electronics,178600,2025-12-02T18:22:27+00:00,True,
+144074824,SEROTONIN,"LaLion, Kordhell",SEROTONIN,38683762,2025,electronics,156800,2025-11-28T22:18:21+00:00,True,explicit
+143997276,Русский автомат,DMON x ADONEL,Системная ошибка,38650406,2025,rusrap,126890,2025-11-26T20:39:33+00:00,True,explicit
+65466090,Красная нить,"ГРОТ, D-MAN 55, ОДИН.ВОСЕМЬ, Nekby","Больше, чем живы",10594436,2012,rusrap,332040,2025-11-24T19:27:25+00:00,True,explicit
+143906762,Урбан,"Nebezao, Ивва",Урбан,38605574,2025,rusrap,163950,2025-11-20T20:23:46+00:00,True,
+144147274,Ты меня забудь,"KEDR, A93",Ты меня забудь,38716698,2025,rusrap,150000,2025-11-15T19:32:13+00:00,True,
+144867465,На одной частоте,"ТРАВМА, Лали",[нулевая частота],39056035,2025,ruspop,126100,2025-11-15T18:53:38+00:00,True,
+144288843,Ukradu,"ANIVAR, kvmly, TIMPLUSH",Ukradu,38785250,2025,electronics,109110,2025-11-15T18:46:42+00:00,True,
+144753796,I RUN,Haven.,I RUN,39436936,2025,electronics,129580,2025-11-15T18:37:13+00:00,True,
+144867420,Самолет,"ТРАВМА, Lida, Валерия",[нулевая частота],39056035,2025,ruspop,167270,2025-11-15T18:14:44+00:00,True,
+145071205,LIT,Big Baby Tape,LIT,39146764,2025,rusrap,165310,2025-11-15T18:05:05+00:00,True,explicit
+139448218,Lift Me Up,"CUTEVISION, Atwyod, Foopoo",I Wish You Were Here,37284673,2025,dance,123880,2025-11-14T12:48:15+00:00,True,
+138298929,Весна,"SERYABKINA, Callmearco",Весна,36266005,2025,ruspop,170520,2025-11-14T12:46:02+00:00,True,
+143568702,Прости за любовь,"Артем Пора Домой, Jahmal TGK",Прости за любовь,38484840,2025,dance,211510,2025-11-11T18:31:04+00:00,True,
+144651672,Вот уж вечер. Роса ft. С. Есенин,10AGE,Вот уж вечер. Роса ft. С. Есенин,38953935,2025,rusrap,235710,2025-11-11T18:10:20+00:00,True,
+119260344,Какую песню тебе спеть?,NETSIGNALA,Какую песню тебе спеть?,33867479,2024,ruspop,158000,2025-11-11T18:04:32+00:00,True,
+122932892,"Расскажи, покажи",Алан Гегуев,"Расскажи, покажи",29851954,2024,caucasian,195820,2025-11-11T18:02:54+00:00,True,
+139569103,Твои красивые глаза (Лезгинка),Артур Бесаев,Твои красивые глаза (Лезгинка),36797190,2025,pop,160080,2025-11-11T17:56:04+00:00,True,
+140742377,права (Hardstyle),"canbounce, Dj Plague",мои (твои) тёмные желания,37298452,2025,electronics,97600,2025-11-11T17:33:22+00:00,True,
+144355801,Как лебеди без пар,Alternative Hero,Как лебеди без пар,38818078,2025,phonkgenre,132940,2025-11-10T17:52:30+00:00,True,
+132718820,Unearthly,"Даша Боровик, WXREAD, LXST GARDEN",Unearthly,33930184,2024,phonkgenre,101140,2025-11-10T17:52:21+00:00,True,
+144826361,SHOW EM,"Aarne, Toxi$",SLAANG,39037296,2025,rusrap,123280,2025-11-08T13:20:04+00:00,True,explicit
+139805705,одна 2,"angel vox, F3VRSIDE",одна 2,36905888,2025,ruspop,203830,2025-11-08T13:02:43+00:00,True,
+144538252,Привет,"Артем Пора Домой, FADE031, uravnabeshen",Привет,38907358,2025,electronics,208940,2025-11-08T12:11:27+00:00,True,
+110125924,лбтд,"кис-кис, Turbosh",лбтд,24418597,2022,dance,172800,2025-11-07T18:00:07+00:00,True,explicit
+142362192,lotta fucking money,meow! dammit,lotta fucking money,37992484,2025,rap,130900,2025-11-06T15:34:34+00:00,True,explicit
+132718808,Не ищи,"Blackmar, yukimura",Не ищи,33930170,2024,ruspop,211120,2025-11-05T13:20:43+00:00,True,
+143213154,Fine Day,"Luuna, Lieless, Yarimov",Fine Day,38337676,2025,dance,150030,2025-11-05T12:33:36+00:00,True,
+136875916,Моя душа,"I'unno, Miruvladeti, FNDMN",Моя душа,35714948,2025,electronics,105320,2025-11-04T17:42:00+00:00,True,
+142135675,На берегу где город спит,"AFERA, vacemadest",На берегу где город спит,37903605,2025,pop,89610,2025-11-04T13:19:14+00:00,True,
+140225101,Ты меня уничтожил 2.0,"BRZ, Askin, prettydien",Ты меня уничтожил 2.0,37076974,2025,electronics,175740,2025-11-03T17:07:09+00:00,True,
+141409337,КАК МАЛОЛЕТКА,EVEN CUTE,КАК МАЛОЛЕТКА,37596605,2025,ruspop,133850,2025-11-03T16:56:28+00:00,True,explicit
+144331085,Керосин,ТРАВМА,Керосин,38806649,2025,ruspop,160290,2025-10-31T12:11:09+00:00,True,
+143326308,Системный сбой,ТРАВМА,Системный сбой,38385945,2025,ruspop,110000,2025-10-28T16:25:54+00:00,True,
+134151117,Сладко,SEREBRO,LUML,34503919,2024,ruspop,102500,2025-10-26T21:23:52+00:00,True,
+143433971,BACKSTAGE,"GOTOU寄生獣, vodvor",BACKSTAGE,38428208,2025,rap,114610,2025-10-24T20:43:07+00:00,True,explicit
+135491948,что за музыка?,Razmazan,что за музыка?,35119010,2025,rap,130960,2025-10-23T10:35:58+00:00,True,explicit
+138560213,Talk to Me,"REDLAUGH, Sandra",Solitude,36375438,2025,electronics,159340,2025-10-17T20:25:12+00:00,True,
+142273965,Позови меня с собой,"Gancher & Ruin, osaili",Позови меня с собой,37957857,2025,dance,214620,2025-10-10T18:47:15+00:00,True,
+134144989,Весь этот мир,"Русский Размер, Yevgeny Nikitin",Весь этот мир,34500667,2024,dance,238540,2025-10-10T18:15:34+00:00,True,
+135685430,тёплым ветром,"PAYWALL, izachem",тёплым ветром,35213067,2025,electronics,178820,2025-10-10T18:05:30+00:00,True,
+142589934,Разучились любить 2.0,"VOLKONSKY, FILATOVA, SAKXRA",Разучились любить 2.0,36158849,2025,electronics,102650,2025-10-10T18:00:04+00:00,True,
+136299079,You and me,"ONL, mercxry",You and me,35482454,2025,house,200060,2025-10-05T13:31:06+00:00,True,
+130072501,ur eyes,"bulletrain, skyfall beats",carbon mist,33254026,2024,experimental,137010,2025-10-03T20:07:13+00:00,True,
+128220437,Лепесток,"CNQR+, angel vox",Лепесток,32131636,2024,electronics,167800,2025-10-03T20:05:58+00:00,True,
+134145511,Вселенной (Hardstyle Remix),"всё никак, wavwav",Починить всё (hardstyle),34563534,2024,electronics,123000,2025-10-03T19:40:44+00:00,True,
+138941738,Поцелуи,"Альбина Джанабаева, Maruyama",Поцелуи,36532072,2025,phonkgenre,156920,2025-10-03T19:38:07+00:00,True,
+129271983,Мы не увидимся никогда,"Mirèle, BORIS REDWALL, ACID BOSS, Joviee, DEATHORIA, CALMFY",Мы не увидимся никогда,32533562,2024,electronics,210000,2025-10-03T19:30:00+00:00,True,
+136637078,Была любовь,Qontrast,Была любовь,35623597,2025,rusrap,146520,2025-10-03T19:27:30+00:00,True,explicit
+125526833,О тебе,"ТРАВМА, Ранетки",НОЧНЫЕ ПРИЗНАНИЯ 2010,34107933,2024,ruspop,146090,2025-10-03T15:45:43+00:00,True,
+142635062,Ты меня забудь,"Артем Пора Домой, DJ Piligrim",Ты меня забудь,38110210,2025,dance,223380,2025-09-30T17:42:03+00:00,True,
+126462774,Ждала,"Asenssia, Broosnica",Ждала,31423021,2024,ruspop,193600,2025-09-28T14:47:36+00:00,True,
+32030702,В темноте,Макс Корж,Животный мир,1997082,2012,rusrap,183400,2025-09-27T07:26:00+00:00,True,
+140329236,Raises,"Dispa, arkale",Raises,37119324,2025,dance,149550,2025-09-22T18:30:27+00:00,True,
+142813666,Распять,MACAN,Распять,38179091,2025,rusrap,132270,2025-09-20T11:04:23+00:00,True,
+141080354,Zvezda,"ANIVAR, kvmly, zovo",Zvezda,37446724,2025,electronics,146520,2025-09-19T18:22:51+00:00,True,
+139422207,IN AND OUT OF LOVE,itgmq Brazil,IN AND OUT OF LOVE,36746139,2025,electronics,96810,2025-09-16T17:31:05+00:00,True,
+140876174,Мир остановится,ТРАВМА,Мир остановится,37355866,2025,rusrap,151500,2025-09-16T16:30:54+00:00,True,
+141103799,Солнце моё,"MACAN, Jakone",BRATLAND,37458189,2025,rusrap,171160,2025-09-15T19:09:18+00:00,True,explicit
+128739725,Мафон,"Sipe, СНИПЭ",Мафон,32339812,2024,electronics,189370,2025-09-15T19:00:12+00:00,True,explicit
+135114895,health,TTRI,health,34940292,2025,rap,140870,2025-09-15T18:56:36+00:00,True,explicit
+140047348,Никак,"Артем Пора Домой, FADE031",Никак,37002869,2025,dance,203770,2025-09-15T18:51:47+00:00,True,
+118465150,Прощание,"Три дня дождя, MONA",melancholia,27856013,2023,ruspop,236250,2025-09-15T18:42:49+00:00,True,
+140252331,ya shozhu s uma hardstyle (CUPSIZE),Dj Plague,ya shozhu s uma hardstyle (CUPSIZE),37089174,2025,rusrap,159420,2025-09-05T08:30:29+00:00,True,
+51782329,Контрольный,Макс Корж,Контрольный,7245834,2019,rusrap,305450,2025-09-02T19:11:09+00:00,True,explicit
+139760760,nonchalance,"6YNTHMANE, влад пиво, КАРТЬЕ, XI$OW",nonchalance,36888157,2025,electronics,112000,2025-09-02T18:19:23+00:00,True,explicit
+140840949,Двигаться,2hug,RAPPERS NEVER DIE,37340498,2025,rusrap,119090,2025-08-31T13:05:57+00:00,True,explicit
+133227983,Last Friday Night - Hardstyle,"Elliot Norlander, Mirin Brah",Last Friday Night (Hardstyle),34123655,2024,electronics,169410,2025-08-28T18:59:16+00:00,True,
+141715781,Часики,"SAKXRA, Валерия",Часики,37729115,2025,phonkgenre,130000,2025-08-28T18:28:38+00:00,True,
+141532938,Sozvezdie,"DEATHORIA, BORIS REDWALL, шамиля",Sozvezdie,37652026,2025,electronics,200000,2025-08-26T17:08:59+00:00,True,
+140742100,Sailor Song,Manil,Sailor Song,37298354,2025,dance,216880,2025-08-26T16:51:27+00:00,True,
+139751548,Cops & Robbers,"Sammy Virji, Skepta",Same Day Cleaning,38274299,2025,ukgaragegenre,161490,2025-08-23T05:49:07+00:00,True,
+133116022,Heartbreak,"Boombox Cartel, urboi., Dillon Francis, Nevve",Heartbreak,34084042,2024,electronics,203550,2025-08-23T05:47:49+00:00,True,
+120902500,Острые лезвия,"hxvvxn, BLVCK CVRNVGE",Острые лезвия,28934767,2024,electronics,136210,2025-08-17T20:56:48+00:00,True,
+105257392,Это наш путь,Макс Корж,Это наш путь,22761652,2022,rusrap,176100,2025-08-11T16:36:09+00:00,True,explicit
+97416287,Animals,Макс Корж,Психи попадают в топ,20067838,2021,rusrap,398460,2025-08-11T09:13:03+00:00,True,
+141585367,Wake Up,Макс Корж,Wake Up,37674978,2025,rusrap,165450,2025-08-09T17:59:15+00:00,True,
+130781340,FOREGROUND,"LONOWN, riserayss",FOREGROUND,33150536,2024,electronics,139200,2025-08-08T18:00:22+00:00,True,
+138826208,With Every Note (SLOWED),"$LMK, T'1nY, DIPIENS",With Every Note,36483658,2025,electronics,169070,2025-08-04T19:22:29+00:00,True,explicit
+132104779,The Emptiness Machine,"Subtropica, Blaikz, Cepaque",The Emptiness Machine,33676655,2024,dnb,197500,2025-08-04T19:21:31+00:00,True,explicit
+132294249,2BWU,EFESIAN,2BWU,33752077,2024,dance,235030,2025-08-03T17:29:25+00:00,True,
+132662359,coldcalls,seeulater,gorodboga,33906784,2024,rap,102470,2025-08-03T16:07:54+00:00,True,explicit
+136877398,Sleep,EFESIAN,Sleep,35715739,2025,dance,218630,2025-08-03T16:07:25+00:00,True,
+137985517,SOMEWHEREIBELONG,"Toronto Is Broken, Reebz, Sebotage",SOMEWHEREIBELONG,36136272,2025,dance,227600,2025-08-03T12:48:03+00:00,True,
+140215392,Baller,"Abor & Tynna, nowifi",Baller,37072445,2025,electronics,167200,2025-08-02T13:57:29+00:00,True,
+141103758,FLAGMAN,"MACAN, ALBLAK 52",BRATLAND,37458189,2025,rusrap,185800,2025-08-01T16:06:32+00:00,True,explicit
+132774476,emotional damage,nowayback,emotional damage,33952712,2024,phonkgenre,168740,2025-07-23T18:00:07+00:00,True,explicit
+32038182,Эмигрант,Макс Корж,Жить в кайф,1683700,2013,rusrap,168830,2025-07-22T18:23:49+00:00,True,
+35899923,Amsterdam,Макс Корж,Домашний,41011233,2017,rusrap,252340,2025-07-20T18:44:50+00:00,True,explicit
+141103771,Гос. Подряд,"MACAN, Big Baby Tape",BRATLAND,37458189,2025,rusrap,174680,2025-07-19T10:09:09+00:00,True,explicit
+138506642,СТЕПЬ,TTRI,СТЕПЬ,36350875,2025,rusrap,93210,2025-07-13T15:25:58+00:00,True,explicit
+49947069,Мой друг,Макс Корж,Малый повзрослел. Часть 1,6848881,2016,rusrap,213000,2025-07-11T10:34:00+00:00,True,explicit
+35899916,Слово пацана,Макс Корж,Домашний,41011233,2017,rusrap,314000,2025-07-10T20:12:35+00:00,True,explicit
+140482500,Eva (Kavkaz remix),"Винтаж, Bedanokov, Люай",Eva (Kavkaz remix),37183200,2025,pop,142080,2025-07-02T14:48:13+00:00,True,
+136601426,Break Your Funk,Dan Korshunov,Break Your Funk,35609807,2025,phonkgenre,137140,2025-07-01T19:22:18+00:00,True,
+140249904,God Bless,"xe1to, ENTYPE",God Bless,37088162,2025,rusrap,119880,2025-07-01T19:21:12+00:00,True,explicit
+140398372,КОЛПАКИ,"КлоуКома, SQWOZ BAB",КОЛПАКИ,37148048,2025,rusrap,140570,2025-07-01T19:10:23+00:00,True,explicit
+140146438,my name,VLDK,my name,37045372,2025,electronics,90660,2025-07-01T18:51:10+00:00,True,
+139803321,Блесс,xe1to,Блесс,36904708,2025,rusrap,99870,2025-07-01T17:17:34+00:00,True,explicit
+137197672,Растаял (MikeLookUs Remix),"MAUR, ÁARPI, KERY SCANDAL, Mike LookUs",Растаял (MikeLookUs Remix),35818430,2025,pop,178220,2025-07-01T17:17:19+00:00,True,
+62287229,Antisocial,"Ed Sheeran, Travis Scott, Mk",Antisocial,9805470,2019,pop,179500,2025-06-25T17:57:01+00:00,True,
+139232331,Song 2,Nic Johnston,Borderline Effect,37024654,2025,dance,135160,2025-06-21T17:41:37+00:00,True,
+136841117,Мы рядом с тобою шли,XASVVO,Мы рядом с тобою шли,35700690,2025,pop,182090,2025-06-14T09:56:16+00:00,True,
+96220263,Searching,"Will Clarke, Shermanology",Searching,19701142,2021,dance,210870,2025-06-14T08:15:12+00:00,True,
+139692836,S.S.D.D.,JEEMBO,STAY HELLA,36841471,2025,rusrap,132580,2025-06-11T17:26:32+00:00,True,
+132833999,Ayo,Rakhim,Ayo,33978081,2024,rusrap,161660,2025-06-07T13:44:27+00:00,True,
+19200822,Imagination,"Gorgon City, Katy Menditta",Sirens,2256742,2014,house,217960,2025-06-03T18:40:40+00:00,True,
+34678557,Magnet,"Toddla T, Andrea Martin",Foreign Light,4279494,2017,electronics,170320,2025-06-03T18:27:16+00:00,True,
+2829030,I Follow Rivers,"Lykke Li, The Magician",Wounded Rhymes,493225,2010,rock,279630,2025-06-01T20:55:03+00:00,True,
+138941796,Плохая девочка 3.0,"Винтаж, SKIDRI, DVRKLXGHT, BORIS REDWALL",F63.9,36639307,2025,ruspop,130290,2025-05-31T09:30:47+00:00,True,
+114345190,Warrior Of Dream,Krooze & Sickjaxx,Warrior Of Dream,26089072,2023,dance,128000,2025-05-28T18:25:29+00:00,True,explicit
+109049641,Big City Life,MACAN,Big City Life,24135056,2022,rusrap,143120,2025-05-18T20:40:09+00:00,True,explicit
+139072004,Pain & Gain,"BATO, SALUKI",6lankname 2,36586909,2025,rusrap,160000,2025-05-16T18:48:12+00:00,True,explicit
+60254599,Русский Стандарт,"ЛАУД, CREAM SODA",Русский Стандарт,9293954,2019,dance,188500,2025-05-12T16:41:37+00:00,True,explicit
+60254586,На Излом,"ЛАУД, CREAM SODA",Русский Стандарт,9293954,2019,dance,199000,2025-05-10T17:25:34+00:00,True,explicit
+123488167,Заново,KHUDEZY,Заново,30113418,2024,rusrap,198680,2025-05-08T11:42:53+00:00,True,explicit
+112717974,Тупик,"SP4K, SALUKI, ROCKET",СВЕРХЗАДАЧА,25395007,2023,electronics,206250,2025-05-08T11:39:31+00:00,True,explicit
+137285008,Take Away,Gapto Fobia,Take Away,35855130,2025,electronics,130280,2025-05-06T12:29:44+00:00,True,
+136601430,So Good,Nósi,So Good,35609810,2025,electronics,219610,2025-04-30T14:30:01+00:00,True,
+40040141,Tamborito,Gramophiles,Tamborito,5192531,2018,folk,226850,2025-04-29T17:55:06+00:00,True,
+125194664,Mega Told You,"GP da ZL, Love Funk, MC RD",Mega Told You,30871137,2024,latinfolk,116360,2025-04-29T17:51:16+00:00,True,explicit
+138353555,Funk Da Montanha,chipbagov,Funk Da Montanha,36288646,2025,latinfolk,95960,2025-04-28T21:48:12+00:00,True,
+85656079,One,"Logic, Frank Sinatra",YS Collection Vol. 1,16378571,2021,foreignrap,171470,2025-04-27T12:52:43+00:00,True,explicit
+15645773,Fly & High,EDM Hits Now!,Drum & Bass Assault,1704652,2013,dnb,270470,2025-04-27T12:34:06+00:00,True,
+122513168,Black Out Days,"Phantogram, Subtronics",Voices,39254737,2014,indie,208450,2025-04-27T12:17:50+00:00,True,
+129246683,Sweater Weather - DnB,tripperbeats,Momentum : D&B Selection,36132545,2025,dnb,122790,2025-04-27T10:47:35+00:00,True,
+135696332,HOUSE OF THE KILL,"Scriptz, Jon T",HOUSE OF THE KILL,35218431,2025,rap,137140,2025-04-25T19:24:28+00:00,True,explicit
+137496511,Slim Shady,BUSHIDO ZHO,Slim Shady,35938036,2025,rusrap,151820,2025-04-25T17:05:48+00:00,True,explicit
+137238387,РУКИ ТЯНУТСЯ,"КУОК, LIL KRYSTALLL",QTOPIA,36074881,2025,ruspop,161720,2025-04-17T18:09:50+00:00,True,explicit
+137300022,последним летом,"madk1d, GRILLYAZH",sexyswag,35861245,2025,rusrap,123260,2025-04-16T10:39:54+00:00,True,explicit
+136332075,Majnuna,"HUGEL, GROSSOMODDO, Randoree",Majnuna,35498096,2025,pop,99030,2025-04-15T04:24:35+00:00,True,
+138186678,Имя 505,"Даша Боровик, itgmq Brazil, DXWNFAME, I'unno",Имя 505,36221387,2025,phonkgenre,163830,2025-04-14T08:32:26+00:00,True,
+136216902,Океанами,izachem,Океанами,35443474,2025,electronics,110760,2025-04-05T16:07:06+00:00,True,
+92907724,Don't Mind Me,Chapter and Verse,Don't Mind Me,18666332,2021,dance,195480,2025-04-05T14:01:56+00:00,True,
+76191275,Бал,Bitz,ХАТАБАССА,13449008,2021,rusrap,107570,2025-04-04T22:04:25+00:00,True,explicit
+137496793,ЮНОСТЬ,КУОК,QTOPIA (DIRECTOR’S CUT),38344523,2025,ruspop,157160,2025-03-28T18:02:10+00:00,True,
+110676724,О тебе,Артур Бесаев,О тебе,24619339,2023,pop,198780,2025-03-22T18:16:53+00:00,True,
+119519476,Далеко,"ШкольниК, Бау",ШКОБАУ,28326133,2023,rusrap,178070,2025-03-22T18:14:53+00:00,True,
+136822101,На своей волне,NETSIGNALA,На своей волне,35692183,2025,ruspop,121040,2025-03-22T18:10:58+00:00,True,
+106956418,Shut Up,"Fabiasco, Perfect Pitch",Shut Up,23386166,2022,dance,156000,2025-03-22T18:01:43+00:00,True,
+82672761,Talk About,"Rain Radio, DJ Craig Gorman",Talk About,15475724,2021,dance,161040,2025-03-22T17:38:27+00:00,True,
+84555103,Morenita,"HUGEL, Cumbiafrica",Morenita,16043570,2021,house,176490,2025-03-22T17:32:47+00:00,True,
+133672463,Say My Name,"Morgan Seatree, Florence + The Machine",Say My Name,34317058,2024,dance,168000,2025-03-22T17:19:00+00:00,True,
+132574433,Paper Planes - DnB,tripperbeats,Momentum : D&B Selection,36132545,2025,dnb,124010,2025-03-22T17:10:22+00:00,True,
+136822140,tell you straight,Jigitz,tell you straight,35692200,2025,electronics,124930,2025-03-22T16:43:46+00:00,True,
+128463622,НИКАКИХ БОЛЬШЕ ВЕЧЕРИНОК HYPER VIP,CREAM SODA,INTERNET FRIENDS (VIP),32234378,2024,ruspop,202190,2025-03-20T18:25:42+00:00,True,
+136418817,кричу,синдром главного героя,кричу,35535085,2025,rusrock,168400,2025-03-20T17:31:43+00:00,True,
+76919674,Плеяда,Пабло,Плеяда,13596181,2021,rusrap,204810,2025-03-19T21:14:23+00:00,True,explicit
+136439011,Закричу на весь мир,ТРАВМА,Закричу на весь мир,35544098,2025,phonkgenre,157200,2025-03-02T09:34:27+00:00,True,
+83151233,Fell in Love,MACAN,Fell in Love,15626812,2021,rusrap,157640,2025-02-27T22:24:21+00:00,True,explicit
+126460059,Падал белый снег (Лезгинка),KhaliF,Падал белый снег (Лезгинка),31421718,2024,caucasian,207360,2025-02-24T09:16:22+00:00,True,
+130382475,Fly Away (Brazil),LXSTEELS,Fly Away (Brazil),32983476,2024,rap,127710,2025-02-23T18:34:52+00:00,True,
+5335384,Wing$,Macklemore,The Heist,1635068,2012,rap,299590,2025-02-23T09:51:29+00:00,True,
+37284583,Remember This,NF,Perception,4719552,2017,rap,240380,2025-02-23T09:14:13+00:00,True,
+28392174,I Just Wanna Know,NF,Therapy Session,3431016,2016,rap,226350,2025-02-22T14:12:26+00:00,True,
+129166565,Алый закат,Рустам Нахушев,Алый закат,32492205,2024,caucasian,176840,2025-02-22T09:34:41+00:00,True,
+123947286,Все сложно Лезгинка Remix,Rafa Miko Ward,Все сложно Лезгинка Remix,30317001,2024,ruspop,144000,2025-02-22T09:29:22+00:00,True,
+105726576,Останься образом,MACAN,Останься образом,22935619,2022,ruspop,216850,2025-02-21T07:41:55+00:00,True,
+119204132,DIAMOND,Xcho,DIAMOND,28188351,2023,rusrap,118610,2025-02-20T19:54:25+00:00,True,
+27077792,Капкан,MOT,Наизнанку,3233604,2016,rusrap,228570,2025-02-20T18:16:56+00:00,True,explicit
+123237021,Мир на двоих,Xcho,Мир на двоих,29998115,2024,ruspop,128000,2025-02-20T17:46:35+00:00,True,
+104538930,Закрыла даль,"Xcho, Mr Lambo",Immigrant,22506761,2022,rusrap,140570,2025-02-19T17:54:48+00:00,True,explicit
+124297854,Весна,"ЛАУД, Armich",Весна,30469684,2024,electronics,150500,2025-02-19T10:45:02+00:00,True,
+67685603,Параллели,"Lapier, Teva",Параллели,11144815,2020,rusrap,146820,2025-02-18T17:57:08+00:00,True,
+128765030,Я хочу с тобой,"MACAN, SCIRENA",I AM,32350465,2024,rusrap,197880,2025-02-18T16:59:41+00:00,True,explicit
+104832075,Dangerous State of Mind,Chri$Tian Gate$,Why Do I Hear Breathing?,25317797,2023,alternative,115620,2025-02-17T17:03:51+00:00,True,explicit
+37284580,My Life,NF,Perception,4719552,2017,rap,215600,2025-02-13T17:32:39+00:00,True,
+64072310,Кино,MACAN,Кино,10252343,2020,rusrap,184440,2025-02-13T14:32:18+00:00,True,
+100638606,За всех,MACAN,За всех,21142861,2022,rusrap,104690,2025-02-13T08:12:10+00:00,True,explicit
+32038185,Нет новостей,Макс Корж,Жить в кайф,1683700,2013,rusrap,213220,2025-02-13T08:04:38+00:00,True,explicit
+39053994,Город дыма,"9 грамм, Bugz, Безумный Майк",Роза ветров,1408135,2013,rusrap,277050,2025-02-13T07:38:32+00:00,True,explicit
+18696997,Жду чуда,25/17,Зебра,1276869,2010,rusrap,234250,2025-02-13T07:26:32+00:00,True,
+39598831,Лиза,ГРОТ,Лучшее,5114494,2018,rusrap,231960,2025-02-13T07:21:01+00:00,True,
+128765018,I AM,MACAN,I AM,32350465,2024,rusrap,185760,2025-02-13T06:26:34+00:00,True,
+17940693,Final Masquerade,Linkin Park,The Hunting Party,2000237,2014,numetal,217610,2025-02-13T03:50:53+00:00,True,
+97416280,Лучший вайб,Макс Корж,Психи попадают в топ,20067838,2021,rusrap,238040,2025-02-13T03:08:54+00:00,True,explicit
+51320248,Поговорить,"ГРОТ, Drummatix",Ремесло,12044593,2020,rusrap,255580,2025-02-12T13:05:17+00:00,True,
+4858119,Simple Game,Seth Sentry,Waiter Minute,6121499,2008,rap,177140,2025-02-11T19:43:31+00:00,True,explicit
+129933204,Denzel W.,"Ulukmanapo, Waysberg Music",Denzel W.,32807477,2024,rap,144270,2025-02-08T18:17:54+00:00,True,
+135522969,Nozhevoje,"КУОК, Quok",17/25 ADHD,35133770,2025,electronics,182510,2025-02-08T16:46:25+00:00,True,
+134646224,What i need,MRK,What i need,34711858,2024,ruspop,158270,2025-02-06T21:19:56+00:00,True,
+132397158,Adel,Dan Korshunov,Adel,33799145,2024,dance,154430,2025-02-06T16:37:31+00:00,True,
+132565851,Горы,NETSIGNALA,Горы,33867392,2024,ruspop,120000,2025-02-06T16:34:24+00:00,True,
+133580146,Алая (Kavkaz),Jaman T,Алая (Kavkaz),34280867,2024,caucasian,121000,2025-02-04T18:04:06+00:00,True,
+95400612,In Da Бацэ,Heim,In Da Бацэ,19440419,2021,house,201350,2025-02-03T18:19:36+00:00,True,explicit
+59859287,Салам алейкум братьям,Ислам Итляшев,Салам алейкум братьям,9202049,2019,caucasian,177240,2025-02-03T18:07:41+00:00,True,
+128765027,21+,MACAN,I AM,32350465,2024,rusrap,135700,2025-02-03T16:38:55+00:00,True,explicit
+110630691,Временно,MACAN,12,24601658,2022,rusrap,172700,2025-02-02T09:49:50+00:00,True,explicit
+103367334,Дикий цветок,Сёма Мишин,Дикий цветок,22108092,2022,rusrap,156810,2025-02-02T09:47:00+00:00,True,
+97416277,Снадобье,Макс Корж,Психи попадают в топ,20067838,2021,rusrap,202440,2025-02-02T09:23:36+00:00,True,explicit
+129771832,Кабардинская лезгинка (Slowed),Assan,Кабардинская лезгинка,35575373,2025,folk,133350,2025-01-31T18:20:10+00:00,True,
+32800875,Украдёт и позовёт,Мурат Тхагалегов,Я тебя забываю,25480090,2018,caucasian,220660,2025-01-31T07:26:18+00:00,True,
+32801053,Сердце,"Азамат Биштов, Мурат Тхагалегов",Сто причин,3156908,2016,caucasian,198290,2025-01-30T17:40:09+00:00,True,
+118665472,Одно большое сердце,КУОК,ДЖАНГЛ,27947736,2023,ruspop,201370,2025-01-24T15:24:08+00:00,True,
+110732367,ETERNAL SLEEP,REDZED,ETERNAL SLEEP,24641894,2023,foreignrap,147200,2025-01-23T06:22:49+00:00,True,explicit
+134030524,Chuchuka,Big Baby Tape,Chuchuka,34451758,2024,rusrap,139720,2025-01-22T18:39:57+00:00,True,
+134453988,EMPTY FUNK,"DJ Anemia, Crier, sixnite",EMPTY FUNK,34734612,2025,electronics,153280,2025-01-17T19:10:45+00:00,True,
+110750825,Инакомыслие,ГРОТ,Инакомыслие,24649761,2023,rusrap,220600,2025-01-17T12:07:41+00:00,True,
+132776969,первый снег,yayaheart,первый снег,33953800,2024,electronics,130420,2025-01-16T16:58:39+00:00,True,
+117268356,На твoей земле,Соль земли,О лютой ненависти и святой любви,27331447,2017,rap,402380,2025-01-16T03:28:11+00:00,True,explicit
+97416291,Балконы,Макс Корж,Психи попадают в топ,20067838,2021,rusrap,279690,2025-01-14T11:19:11+00:00,True,explicit
+133720907,This Feelings (Super Slowed),"Autxmn Love, MyinWo",This Feelings,34332333,2024,phonkgenre,140200,2025-01-14T11:15:29+00:00,True,
+108989856,Сказ,МАВАШИ group,Мелодекламация,24116206,2022,alternative,214650,2025-01-14T10:55:48+00:00,True,
+134310247,Beautiful (Remix),"NoНейма, AnufriEva, BartiZ",Beautiful (Remix),34570021,2024,pop,113610,2025-01-14T06:17:01+00:00,True,
+49947066,Крутой чел,Макс Корж,Малый повзрослел. Часть 1,6848881,2016,rusrap,268550,2025-01-13T13:27:45+00:00,True,explicit
+132638422,Show Me Love,Butch U,Show Me Love,33898018,2024,phonkgenre,138810,2025-01-12T16:44:27+00:00,True,
+103805358,Остаться,25/17,Неизбывность,22248502,2022,rusrap,226910,2025-01-11T21:51:53+00:00,True,
+39598828,Обитатели рая,ГРОТ,Лучшее,5114494,2018,rusrap,263920,2025-01-11T21:49:24+00:00,True,
+134464864,Волны,IAMKIRA,Волны,34637483,2025,rusrap,180000,2025-01-11T17:32:05+00:00,True,
+68743,Industry Groupie,Chamillionaire,Ultimate Victory,6313,2007,rap,212520,2025-01-10T20:28:10+00:00,True,
+32038186,Сеть,Макс Корж,Жить в кайф,1683700,2013,rusrap,197360,2025-01-09T16:27:10+00:00,True,
+44822006,Время ток,Антоха МС,Советы для молодожёнов,17921568,2017,local-indie,230560,2025-01-08T18:33:38+00:00,True,
+49947064,Стилево,Макс Корж,Малый повзрослел. Часть 1,6848881,2016,rusrap,110080,2025-01-08T18:09:50+00:00,True,explicit
+43202053,Пролетарка,Макс Корж,Пролетарка,5740415,2018,rusrap,228000,2025-01-06T19:05:14+00:00,True,explicit
+134698899,ZIMA,"TRILTAPE, Areus, САМОВАРОЧКИ",ZIMA,34734621,2025,electronics,126830,2025-01-04T07:12:39+00:00,True,
+19366056,Runnin',David Dallas,Falling into Place,2226613,2013,rap,226720,2025-01-02T20:39:57+00:00,True,
+133911517,Прометей,H8.HOOD,Прометей,34402693,2024,rusrap,153840,2024-12-31T18:18:19+00:00,True,explicit
+128463599,ПОТАНЦУЙ СО МНОЙ ЕЩЁ,CREAM SODA,INTERNET FRIENDS (VIP),32234378,2024,ruspop,154950,2024-12-31T17:05:13+00:00,True,
+113148352,Tango,Arthur Distone,Tango EP,25577581,2023,house,225710,2024-12-30T15:33:57+00:00,True,
+114051844,INTERNET FRIENDS,CREAM SODA,INTERNET FRIENDS,25953901,2023,ruspop,225000,2024-12-29T12:14:30+00:00,True,
+49947061,Своё заберу,Макс Корж,Малый повзрослел. Часть 1,6848881,2016,rusrap,235190,2024-12-28T18:42:35+00:00,True,
+35899927,Не выдумывай,Макс Корж,Домашний,41011233,2017,rusrap,239870,2024-12-27T08:03:28+00:00,True,
+122632117,Stress,Макс Корж,Stress,29686758,2024,rusrap,171640,2024-12-25T19:10:12+00:00,True,
+71980742,Русская душа,КУОК,КРАСНОСТЬ,13535624,2020,rusrap,245420,2024-12-25T17:37:27+00:00,True,explicit
+89977243,Не твой,Макс Корж,Не твой,17719692,2021,rusrap,175010,2024-12-24T07:23:33+00:00,True,
+133430108,TKYA LBV,Оксана Почепа (Акула),TKYA LBV,34215276,2024,electronics,118280,2024-12-20T06:06:06+00:00,True,
+133579391,Большой город,"ЛАУД, Thomas Mraz, Ilya Gadaev",Большой город,34280593,2024,electronics,230260,2024-12-20T06:02:09+00:00,True,
+132710435,I'm Not Your First,MXKENTOSH,I'm Not Your First,33926604,2024,electronics,178390,2024-12-19T18:16:41+00:00,True,
+37572516,Напалм,Макс Корж,"Малый повзрослел, Ч. 2",6848880,2017,rusrap,140180,2024-12-18T19:15:31+00:00,True,explicit
+37572515,Оптимист,Макс Корж,"Малый повзрослел, Ч. 2",6848880,2017,rusrap,195270,2024-12-18T19:12:46+00:00,True,
+131974726,too much,bullish,too much,33624516,2024,electronics,157860,2024-12-18T16:55:48+00:00,True,
+95728562,Радуга,CREAM SODA,Радуга,19541164,2021,ruspop,197800,2024-12-17T06:22:00+00:00,True,
+108804708,Зоря,PELYUH,Зоря,24047159,2022,electronics,193920,2024-12-17T06:15:26+00:00,True,
+132940449,ИЗ ОКНА,GRILLYAZH,ВСЁ НЕ ТАК УЖ И ПЛОХО,34019715,2024,ruspop,112300,2024-12-11T17:55:57+00:00,True,
+128463598,RAVER CODE,CREAM SODA,INTERNET FRIENDS (VIP),32234378,2024,ruspop,200020,2024-12-11T17:45:37+00:00,True,
+92448525,Подожгу,CREAM SODA,Подожгу,18524293,2021,ruspop,245000,2024-12-08T19:42:24+00:00,True,
+110913064,Искренности,"Nebezao, Mic Mix",Notorious,24708073,2023,rusrap,137910,2024-12-08T19:37:24+00:00,True,explicit
+132778941,не расслабляйся,Скриптонит,не расслабляйся,33954663,2024,rusrap,164300,2024-12-07T17:46:25+00:00,True,explicit
+127792166,Dynasties and Dystopia (from the series Arcane League of Legends),"Denzel Curry, Gizzle, Bren Joy",Arcane League of Legends (Soundtrack from the Animated Series),31957035,2021,soundtrack,178080,2024-12-05T06:10:51+00:00,True,
+129269766,Луна одинокая,ДЕРЕЗА,Луна одинокая,32532525,2024,folk,181010,2024-12-01T17:33:15+00:00,True,
+130258291,Не судьба,ДЕРЕЗА,Не судьба,32931918,2024,folk,127380,2024-12-01T13:48:25+00:00,True,
+112407645,Метелица,"НАСТАСЬЯ, ГРАНЖ",Метелица,25269188,2023,ruspop,189000,2024-12-01T04:32:30+00:00,True,
+111489709,Притяжение,"GUMA, КУОК",Притяжение,24920212,2023,ruspop,200390,2024-11-29T19:12:05+00:00,True,
+73648075,Миражи,hehehe,Миражи,29511815,2024,rusrock,170330,2024-11-19T06:19:22+00:00,True,
+130777071,(I Just) Died In Your Arms,Beachbag,(I Just) Died In Your Arms,33148765,2024,dance,142400,2024-11-13T17:18:04+00:00,True,
+132529096,KOLOBOK!,chelsy smile,KOLOBOK!,33853383,2024,electronics,101660,2024-11-12T18:02:25+00:00,True,
+122557053,Still (I Got Summer On My Mind),"JJ, FORTELLA",Still (I Got Summer On My Mind),29659651,2022,dance,193470,2024-11-12T17:43:31+00:00,True,
+132493755,Не остановиться,Antew,Не остановиться,33840757,2024,ruspop,180920,2024-11-04T20:33:53+00:00,True,
+127232670,BACK IT UP,"Sam Silver, ALRT, Leap96, Michael Aristotle",Leap 96,33504033,2024,dance,130680,2024-10-23T14:03:30+00:00,True,explicit
+130926687,Chihiro,Gravagerz,Chihiro (The Elements),33210210,2024,electronics,116720,2024-10-22T06:23:36+00:00,True,
+95040675,ШОССЕ,f0lk,EVERYTHING DIES,19342359,2021,rusrap,228290,2024-10-15T18:23:54+00:00,True,explicit
+131475007,Снова рассвет,YUFOLL,Снова рассвет,33428307,2024,pop,110180,2024-10-15T18:20:13+00:00,True,
+118689638,Loony,Infraction,Loony,20688912,2022,dance,164130,2024-10-12T19:10:50+00:00,True,
+131300242,OpenHouse,"BONES, Drew The Architect",ModernArchitecture,33359024,2024,rap,113230,2024-10-12T11:09:41+00:00,True,explicit
+130663006,Убита тобой,"Абрикоса, Mercury Beats",Убита тобой,33104862,2024,ruspop,147000,2024-10-11T16:54:09+00:00,True,
+130575145,"Alibi Pt. 2 (with Anitta, Pabllo Vittar & Yseult)","Sevdaliza, Anitta, Pabllo Vittar, Yseult","Alibi Pt. 2 (with Anitta, Pabllo Vittar & Yseult)",33066602,2024,pop,176770,2024-10-11T16:51:49+00:00,True,
+131210219,УРБАН,f0lk,УРБАН,33320133,2024,rusrap,108950,2024-10-11T16:48:28+00:00,True,
+127124613,Alibi,"Sevdaliza, Pabllo Vittar, Yseult",Alibi (with Pabllo Vittar & Yseult),31686899,2024,latinfolk,161650,2024-09-29T14:41:13+00:00,True,
+130024163,Преступление,GSPD,ГРУСТНЫЕ ПЕСНИ ДЛЯ ВЕСЁЛЫХ ЛЮДЕЙ,32845424,2024,alternative,202640,2024-09-28T13:27:14+00:00,True,
+127279743,AVANGARD,LONOWN,Avangard,37728515,2024,dance,156840,2024-09-22T09:04:46+00:00,True,explicit
+130220801,I DONT CARE,UMBASA,I DONT CARE,32915931,2024,phonkgenre,93330,2024-09-22T09:01:45+00:00,True,
+128627956,В твоих глазах тону,"WELLAY, ЛАЙТОВАЯ, BAbyBoi",В твоих глазах тону,32298971,2024,pop,119100,2024-09-22T08:58:45+00:00,True,
+32801464,Чёрные глаза,Айдамир Мугу,Чёрные глаза,28022032,2016,caucasian,343820,2024-09-20T17:43:24+00:00,True,
+128137041,AURA,Ogryzek,AURA,39108702,2024,electronics,115900,2024-09-20T17:41:44+00:00,True,
+68932005,По ресторанам,"Руслан Набиев, DJ Fat Maxx, A-Sen",По ресторанам,11475160,2020,ruspop,194920,2024-09-20T16:22:13+00:00,True,explicit
+130024160,В параллельной вселенной,GSPD,ГРУСТНЫЕ ПЕСНИ ДЛЯ ВЕСЁЛЫХ ЛЮДЕЙ,32845424,2024,alternative,159280,2024-09-17T06:25:02+00:00,True,explicit
+129501467,MOSCOW,"Aarne, BUSHIDO ZHO, Markul",WE LIVE ONLY ONCE,32626035,2024,rusrap,156520,2024-09-04T08:51:23+00:00,True,explicit
+127836998,Atmosphere,"Fisher, Kita Alexander",Atmosphere,31973942,2023,house,182850,2024-09-04T08:40:42+00:00,True,
+128786993,LUV,Dan Korshunov,LUV,32357957,2024,pop,135630,2024-09-04T06:09:24+00:00,True,
+53267161,You & I,"Dabeull, Holybrune",Intimate Fonk,7604965,2019,disco,208890,2024-09-02T06:39:07+00:00,True,
+129720043,Часики,"Leonid Rudenko, Валерия, NOVOE SLOVO, Tribeat",Часики,32718069,2024,ruspop,125660,2024-08-23T17:16:02+00:00,True,
+129391403,МОСКВА,GRILLYAZH,ВЫСШАЯ ШКОЛА БИЗНЕСА,32583347,2024,ruspop,142280,2024-08-20T17:13:01+00:00,True,explicit
+129443825,Zavod,"AEOL, coach, psyllo, 2:56 after sunrising",Zavod,32605137,2024,rap,235030,2024-08-20T17:11:00+00:00,True,explicit
+129501472,РЕВНУЮ,"Aarne, BUSHIDO ZHO, Liza Evans",WE LIVE ONLY ONCE,32626035,2024,rusrap,161140,2024-08-20T06:20:03+00:00,True,explicit
+129946388,Где ты,"WhyBaby?, Инфинити, BAbyBoi",Где ты,32813253,2024,phonkgenre,122760,2024-08-19T18:58:54+00:00,True,explicit
+127365608,Coldest Man,"Big Baby Tape, Aarne",PEEKABOO,31785098,2024,rusrap,139600,2024-08-13T06:18:24+00:00,True,explicit
+127365611,Da Law,"Big Baby Tape, Aarne, ICEGERGERT",PEEKABOO,31785098,2024,rusrap,152360,2024-08-06T18:05:15+00:00,True,explicit
+641770,Stay With Me - Radio Edit,Akcent,Stay with me.Single,68556,,dance,251110,2024-08-06T17:39:41+00:00,True,
+121453465,Beltstight 94,HXRNYMXN,Eurodance Vibes,29959640,2024,electronics,189990,2024-08-06T17:11:40+00:00,True,
+128915858,Заря,РОДНАЯ РЕЧЬ,Заря,32407354,2024,folk,196700,2024-08-06T16:55:09+00:00,True,
+128926700,Destination 24,"Leonid Rudenko, NEEL, KOREL, Wipo",Destination,32411616,2024,ruspop,140090,2024-08-06T03:42:37+00:00,True,
+128730519,Gde Ti,"Килджо, Immoral Freak",Gde Ti,32335624,2024,phonkgenre,110650,2024-08-03T19:42:45+00:00,True,explicit
+128765036,Первая буква имени,MACAN,I AM,32350465,2024,rusrap,170640,2024-07-25T18:01:40+00:00,True,
+2473731,Rumours (Digi Digi),"Whizzkids, Inusa Dawuda",Rumours (Digi Digi ),245814,2009,electronics,198280,2024-07-23T17:55:21+00:00,True,
+641776,On and on (When the Lights Go Down),Akcent,True Believers,69035,2009,dance,261850,2024-07-23T17:45:40+00:00,True,
+126893145,Numb,"Braaheim, Level 8",Numb,31593620,2024,dance,116570,2024-07-23T14:52:41+00:00,True,
+80387471,Smack That,Erd1,Smack That,14717667,2019,electronics,186590,2024-07-22T05:32:02+00:00,True,
+125249221,Return of the Tres,VOLB3X,GVNG II,31482445,2024,dance,94280,2024-07-21T20:34:13+00:00,True,
+128765019,TSM,MACAN,I AM,32350465,2024,rusrap,160110,2024-07-19T19:43:50+00:00,True,explicit
+128462878,ВШБ (при уч. CUPSIZE),GRILLYAZH,ВЫСШАЯ ШКОЛА БИЗНЕСА,32583347,2024,ruspop,109380,2024-07-19T18:43:55+00:00,True,explicit
+126104342,Want My Love,Beatbreaker,Want My Love,31273161,2024,electronics,211920,2024-07-16T06:18:30+00:00,True,
+126561793,U NEED IT,CALMFY,TRAVELPACK,31574471,2024,bassgenre,115860,2024-07-15T19:57:05+00:00,True,
+105043065,High-Risk zone,"Rixat, MEELBRN",DANGER ZONE,27698967,2022,rap,115710,2024-07-13T14:18:28+00:00,True,explicit
+98456906,Hot,"UMAII, Donna Tella",Hot,20446867,2022,electronics,154670,2024-07-11T20:11:33+00:00,True,
+115427235,WHO THE F*** ARE YOU?,"IKIRU, SE11EC",WHO THE F*** ARE YOU?,26568613,2023,rusrap,142750,2024-07-09T18:14:35+00:00,True,explicit
+121972111,HUMAN NATURE 2,"IKIRU, SE11EC",HUMAN NATURE 2,29431709,2024,phonkgenre,125140,2024-07-08T14:05:34+00:00,True,explicit
+126567052,Такая любовь,"MODERN U, Оксана Почепа (Акула), NLO",Такая любовь,31464557,2024,ruspop,146660,2024-07-07T20:45:51+00:00,True,
+28535749,Непохожие,Quest Pistols Show,Непохожие,3414129,2016,ruspop,181370,2024-07-06T18:35:22+00:00,True,
+43410114,Про красивую жизнь,БАНД'ЭРОС,Коламбия Пикчерз не представляет,5776142,2012,ruspop,220340,2024-07-06T18:31:22+00:00,True,
+128107066,Vmeste My,"5sta Family, 6YNTHMANE, budAGE",Vmeste My,32083232,2024,phonkgenre,123280,2024-07-05T18:46:00+00:00,True,
+125058203,крыши частных секторов,две тысячи ярдов,когда меня не станет главное не забудь…,30814316,2024,alternative,129000,2024-07-02T07:42:32+00:00,True,
+74303938,Музыка,Бьянка,Мyзыкa,12983358,2020,ruspop,180950,2024-07-02T06:43:57+00:00,True,
+126207161,STEALTH,IKIRU,STEALTH,31316922,2024,phonkgenre,89710,2024-07-01T19:16:52+00:00,True,explicit
+124549854,SOUTH SIDE,"FEXFILLMANE, EvxlEmpxre, KXZVMY",HELLA THRILL 3,30587460,2024,electronics,95700,2024-07-01T19:09:52+00:00,True,explicit
+92097950,Бродяга,"Эльбрус Джанмирзоев, Alexandros Tsopozidis",Бродяга,38383806,2016,caucasian,245350,2024-07-01T18:32:21+00:00,True,
+124225453,Твоя любовь манила,Тахмина Умалатова,Твоя любовь манила (Slowed Version),30439520,2024,estrada,241990,2024-06-28T17:06:16+00:00,True,
+126858001,Zachem,"6YNTHMANE, 5sta Family, BAbyBoi",Zachem,31581049,2024,electronics,112500,2024-06-28T16:25:05+00:00,True,
+124549859,152mm,"FEXFILLMANE, EvxlEmpxre, Triple6six",HELLA THRILL 3,30587460,2024,electronics,90000,2024-06-27T15:55:26+00:00,True,explicit
+125723670,KEVLAR,IKIRU,KEVLAR,31112200,2024,phonkgenre,112820,2024-06-11T18:28:55+00:00,True,explicit
+14553694,A Light That Never Comes,"Linkin Park, Steve Aoki",Recharged,1606398,2013,numetal,229430,2024-05-31T16:33:00+00:00,True,
+4346124,The Future Is Now,The Offspring,Days Go By,493070,2012,punk,248410,2024-05-31T16:29:20+00:00,True,
+2191818,Been To Hell,Hollywood Undead,American Tragedy,2012934,2010,alternativemetal,203160,2024-05-31T16:25:40+00:00,True,explicit
+125058204,терабайтами пост-панка,две тысячи ярдов,когда меня не станет главное не забудь…,30814316,2024,alternative,125200,2024-05-16T03:51:03+00:00,True,
+125022714,Общество,"Расстройство, найтивыход",Общество,30797487,2024,alternative,141480,2024-05-14T06:27:49+00:00,True,explicit
+125535620,МАЛО,"GRILLYAZH, ЗоХа",МАЛО,31026629,2024,ruspop,132920,2024-05-14T04:16:41+00:00,True,explicit
+82718224,Nobody Knows,Wale the Sage,Nobody Knows,15494095,2021,rap,164950,2024-05-06T15:47:02+00:00,True,explicit
+99428595,Walkin,Denzel Curry,Walkin,20770052,2022,rap,280000,2024-05-05T01:23:07+00:00,True,explicit
+18697003,Давай делай,25/17,Зебра,1276869,2010,rusrap,179350,2024-05-04T08:22:04+00:00,True,
+18696988,Счастье,25/17,Песни о любви и смерти,1276871,2012,rusrap,162300,2024-05-03T13:44:37+00:00,True,
+120119494,Orange Sun,"Краски, MXKENTOSH",Orange Sun,28583873,2023,electronics,196710,2024-05-01T11:39:46+00:00,True,
+133053,There They Go,"Fort Minor, Sixx John",Believe Me,18057,2005,rap,197780,2024-04-30T21:55:22+00:00,True,explicit
+121771295,Sonne,Six Dior,Sonne,29340035,2023,electronics,113000,2024-04-25T06:26:23+00:00,True,
+124901761,Такая любовь,"NLO, Оксана Почепа (Акула)",НОГИ ВВЕРХ!,32234166,2024,ruspop,151970,2024-04-23T04:21:59+00:00,True,
+124157556,Vent,NOIT,Vent,30408152,2024,pop,176890,2024-04-19T06:34:57+00:00,True,explicit
+123945309,Гардарика,Саграда,Садко 3000,30315863,2024,folk,171000,2024-04-16T06:24:38+00:00,True,
+117377564,Холодно,"HORUS, Зараза",Вечный поиск,27380243,2023,rusrap,194000,2024-04-16T06:14:38+00:00,True,
+20045691,Живая энергия,"ГРОТ, D-MAN 55, Супец",Личная Вселенная,12050407,2010,rusrap,282260,2024-04-16T04:18:48+00:00,True,explicit
+118713912,Rare,NEFFEX,Change: The Collection,28565041,2023,edmgenre,234780,2024-04-15T20:45:44+00:00,True,explicit
+117766589,We can survive it,SEVER 505,We can survive it,27550497,2023,electronics,128640,2024-04-11T06:43:13+00:00,True,
+115054363,Oblivious,MUPP,Oblivious,26415622,2023,electronics,106680,2024-04-08T16:18:44+00:00,True,explicit
+123721342,Наступит ночь,"Бьянка, FADE031",Наступит ночь,30219960,2024,dance,101550,2024-04-03T14:38:34+00:00,True,
+32356938,Зимняя Сказка,Луперкаль,Зимородок,3942224,2016,rusrap,166170,2024-04-01T19:19:30+00:00,True,explicit
+32367310,Хит-Парад Багдада,Соль земли,Хит-Парад Багдада,3943698,2016,rusrap,316020,2024-04-01T18:48:46+00:00,True,explicit
+35779022,Боевое применение,Соль земли,О лютой ненависти и святой любви,27331447,2017,rap,251240,2024-04-01T17:19:39+00:00,True,
+38509818,Варкрафт,Соль земли,Варкрафт,4927732,2017,rusrap,227350,2024-04-01T15:31:24+00:00,True,explicit
+119057924,Светлячок,Кишлак,СХИК2,28122625,2023,alternative,117670,2024-03-29T18:51:41+00:00,True,explicit
+76258344,Боевой марш,МК 5.45,Былинный альбом,13462814,2021,rusrap,211210,2024-03-29T10:52:27+00:00,True,
+17896637,Тропа единства,"Миша Маваши, Lil`Soulja",Зерно,15026065,2012,rap,176610,2024-03-29T08:25:36+00:00,True,explicit
+81749639,4 унции,МАВАШИ group,"Старое, да сызнова",15181436,2021,rusrap,237170,2024-03-29T08:19:56+00:00,True,
+25713212,Лицо огня,"Саграда, Соль земли",Иордан,27331454,2015,rap,234710,2024-03-29T06:36:14+00:00,True,
+35779033,Дикий мёд,Соль земли,О лютой ненависти и святой любви,27331447,2017,rap,272010,2024-03-28T06:32:09+00:00,True,
+1626598,"Мама, мы все тяжело больны",25/17,КИНОпробы. Рэп-трибьют,162948,2010,rusrap,161170,2024-03-25T12:56:56+00:00,True,
+86981048,Armageddon,Dr. Fresch,Armageddon,16775360,2021,edmgenre,184500,2024-03-25T05:04:11+00:00,True,explicit
+90380437,i remember,bbno$,eat ya veggies,17857188,2021,rap,203340,2024-03-23T07:06:30+00:00,True,
+52143191,Камо грядеши,Соль земли,Сокровища бродяг,7322464,2010,rusrap,223260,2024-03-23T06:59:10+00:00,True,explicit
+111855592,СТРЕЛЯЙ,GRILLYAZH,FAKE TAXI,25103054,2023,ruspop,174000,2024-03-17T13:13:10+00:00,True,
+117801233,Чёрный ворон,РОДНАЯ РЕЧЬ,Соколка,27565423,2023,rusrap,233140,2024-03-13T11:15:33+00:00,True,
+25713230,Ультиматум,Соль земли,Ультиматум,3040301,2012,rusrap,312110,2024-03-13T11:02:33+00:00,True,
+38633712,Группа крови,КИНО,Легенда,5307396,2018,rusrock,235100,2024-03-12T18:36:19+00:00,True,
+104583065,Грязная работа,РИЧ,Грязная работа,22526502,2022,rusrap,141390,2024-03-12T17:14:17+00:00,True,
+35779020,С менталитетом меченосца,Соль земли,О лютой ненависти и святой любви,27331447,2017,rap,309390,2024-03-11T15:38:24+00:00,True,
+34159817,На твoей земле,Соль земли,О лютой ненависти и святой любви,27331447,2017,rap,402380,2024-03-11T15:14:44+00:00,True,explicit
+72476954,Пока не выключат свет,"Саграда, Ант",ВСПОМНИТЬ ВСЁ. Часть 4 (1). Ковры,12470844,2019,rusrap,240680,2024-03-07T16:53:57+00:00,True,explicit
+25972288,"Живым (В городе, где нет метро)",25/17,"Живым (В городе, где нет метро)",3069575,2015,rusrap,248310,2024-03-05T06:22:14+00:00,True,
+81749631,Моя крепость,МАВАШИ group,"Старое, да сызнова",15181436,2021,rusrap,177500,2024-03-03T18:10:49+00:00,True,explicit
+77380209,Герилья Гильермо Агилеры,Соль земли,Герилья Гильермо Агилеры,13712864,2021,rusrap,237380,2024-03-03T17:59:49+00:00,True,explicit
+43502593,Солдат,Змей,Солдат,5790095,2018,rusrap,248030,2024-03-03T16:03:30+00:00,True,
+21522474,In da Club,Josh Vietti,In da Club,2464120,2014,rap,149410,2024-03-01T18:45:59+00:00,True,
+112680972,Without Me,Gordon,Without Me,31041593,2024,electronics,189160,2024-02-29T03:40:34+00:00,True,explicit
+20045697,Кровь с кислородом,"ГРОТ, Ант",Личная Вселенная,12050407,2010,rusrap,197810,2024-02-28T15:51:29+00:00,True,
+120076017,I Want More (Freestyle),NEFFEX,Change: The Collection,28565041,2023,edmgenre,225770,2024-02-26T16:03:08+00:00,True,
+35779028,Так горит степь,Соль земли,О лютой ненависти и святой любви,27331447,2017,rap,329270,2024-02-24T10:30:43+00:00,True,
+91857574,Фонари,Гансэлло,Фонари,18341594,2021,rusrock,243680,2024-02-23T17:26:32+00:00,True,
+25229764,Весь мир идёт на меня войной,25/17,Весь мир идёт на меня войной,2969534,2015,rusrap,267000,2024-02-21T18:46:15+00:00,True,explicit
+15826554,Грозный?,"D-MAN 55, M-Town",Коллективное сверхсознательное,1725126,2013,rusrap,187000,2024-02-20T18:57:49+00:00,True,
+35779021,День когда вскипят океаны,Соль земли,О лютой ненависти и святой любви,27331447,2017,rap,322320,2024-02-19T13:56:07+00:00,True,explicit
+15826556,Депеша,"D-MAN 55, Ант",Коллективное сверхсознательное,1725126,2013,rusrap,177950,2024-02-18T17:33:12+00:00,True,
+19910103,Человек-поступок,ГРОТ,На связи,2241639,2014,rusrap,199100,2024-02-18T17:18:31+00:00,True,
+178494,Crawling,Linkin Park,Hybrid Theory,18111,2000,numetal,208960,2024-02-17T16:54:20+00:00,True,
+18697015,Моя крепость,"25/17, Миша Маваши, МАВАШИ group",Межсезонье,1273576,2011,rusrap,177580,2024-02-16T07:46:28+00:00,True,explicit
+118366595,Sarà perché ti amo,"Ricchi E Poveri, Luca-Dante Spadafora",Sarà perché ti amo,27809524,2023,techno,134600,2024-02-15T06:11:34+00:00,True,
+43104875,Don't Speak,GLASS TIDES,Don't Speak,5725829,2018,alternative,177190,2024-02-14T06:04:22+00:00,True,
+98034129,20,MACAN,20,20293561,2022,rusrap,164130,2024-02-14T05:52:21+00:00,True,
+95752206,Русская-народная,"Gfam, Светлана Боголей",Русская-народная (prod. by NIKITA BAKHTIN),19548032,2021,rusrap,184790,2024-02-12T17:00:09+00:00,True,
+104457307,300 кг тротила,Fintura,300 кг тротила,22478927,2025,dance,202000,2024-02-12T16:34:08+00:00,True,explicit
+119221310,МЕЖДУ НАМИ,GRILLYAZH,МЕЖДУ НАМИ,28195731,2023,ruspop,121140,2024-02-12T05:48:56+00:00,True,
+87346400,Зима в сердце,Моя Мишель,Из цветов и темноты,24284922,2022,ruspop,245180,2024-02-11T19:58:22+00:00,True,
+335286,Fairytale,Александр Рыбак,Fairytale,6029635,2009,pop,183650,2024-02-11T19:55:42+00:00,True,
+9962693,CAN YOU FEEL MY HEART,Vamp,CAN YOU FEEL MY HEART,39262463,2025,pop,228250,2024-02-11T19:48:01+00:00,True,
+40063,Give It To Me,"Timbaland, Justin Timberlake, Nelly Furtado",Shock Value,3323,2007,rap,234000,2024-02-11T19:47:41+00:00,True,explicit
+121694265,ДРУГОЕ ТУТ НЕВОЗМОЖНО,GRILLYAZH,ДРУГОЕ ТУТ НЕВОЗМОЖНО,29300681,2024,ruspop,114000,2024-02-01T03:40:09+00:00,True,
+119955070,А по тёмным улицам гуляет дождь,"Groove, Босиком по солнцу",А по тёмным улицам гуляет дождь,28511476,2023,ruspop,123430,2024-01-30T19:52:01+00:00,True,
+79676303,Фарарей,MAUR,Фарарей,14508208,2021,rusrap,165560,2024-01-29T18:02:24+00:00,True,explicit
+120104752,Ты футбольный хулиган,МАКСИ ГРИН,Ты футбольный хулиган,28577255,2023,rusrap,154780,2024-01-29T17:40:23+00:00,True,
+115337071,Я косынку завяжу,ЛИМИТ-ARMY,Я косынку завяжу,26530055,2023,rock,201730,2024-01-28T16:37:37+00:00,True,
+117708580,Молодой,UGAROV,Молодой,27524389,2023,rusrap,143130,2024-01-27T09:24:48+00:00,True,
+121543125,Спой,"A.V.G, MACAN",Спой,29234884,2024,rusrap,145210,2024-01-25T22:01:34+00:00,True,
+108591168,Матушка,Татьяна Куртукова,У истока,33866043,2024,ruspop,172990,2024-01-25T06:30:45+00:00,True,
+107157726,WANDERER,MELERY,FUNCTION,23462237,2022,relax,170660,2024-01-23T06:48:09+00:00,True,
+116752264,Maybe We Are Not Crazy,DEVILNOTCRY,EDMWRLD,37701885,2023,electronics,117650,2024-01-23T06:21:29+00:00,True,
+113944547,Босиком,Monte&Manula,Босиком,25907178,2023,ruspop,148880,2024-01-23T06:18:09+00:00,True,
+103749182,BLACKBERRY,"NEEL, KOREL, B3NZIN",BLACKBERRY,22232010,2022,rusrap,157750,2024-01-23T06:10:28+00:00,True,explicit
+107703267,Пули,KEDR,Пули,23659172,2022,rusrap,110000,2024-01-23T04:21:33+00:00,True,explicit
+106338495,Катятся слезы,Monte&Manula,Катятся слезы,23164137,2022,dance,123420,2024-01-22T15:40:40+00:00,True,
+115828806,Соколка,"Юрà, РОДНАЯ РЕЧЬ, Хор Сретенского монастыря",Соколка,26734018,2023,rusrap,284000,2024-01-22T13:07:21+00:00,True,
+117131963,Dying 2 Live,Big Baby Tape,VARSKVA,28255531,2023,rusrap,161680,2024-01-20T14:38:56+00:00,True,explicit
+117546881,PLANET,"Амора, EDWXRDX",PLANET,27454073,2023,phonkgenre,135110,2024-01-20T11:35:32+00:00,True,
+108864836,Путь,"JUIZY ISLAND, SYNTICAT, RACOONA, ПЕВЧАЯ",Таврида.АРТ. 2022,24070265,2022,ruspop,174720,2024-01-20T11:10:27+00:00,True,
+117178610,Я горю,Полынь Folk,Я горю,27289530,2023,folk,170960,2024-01-20T10:43:06+00:00,True,
+119111142,ЛА-ЛА-ЛА,"f0lk, GRILLYAZH",V.O.L.G.A,28145817,2023,rusrap,121320,2024-01-20T10:34:46+00:00,True,
+120095287,Согрею,YOUCHI,Согрею,28573530,2023,rusrap,229510,2024-01-17T16:51:22+00:00,True,
+119269334,Миражи,"hehehe, ask eternity",Миражи,29511815,2024,rusrock,158090,2024-01-17T16:36:41+00:00,True,
+17311410,Comatose,Skillet,Awake,1908313,2010,alternative,293850,2024-01-16T19:19:01+00:00,True,
+106019402,Никаких проблем,IVAN VALEEV,Никаких проблем,23043471,2022,ruspop,142370,2024-01-16T15:17:03+00:00,True,
+64365947,Под утро,CAPTOWN,Под утро,10332344,2020,rusrap,205440,2024-01-16T15:08:23+00:00,True,explicit
+76622100,Kazak,Etman,Kazak,13563068,2021,pop,152250,2024-01-14T20:16:18+00:00,True,
+117801237,Поле,РОДНАЯ РЕЧЬ,Соколка,27565423,2023,rusrap,185040,2024-01-14T20:13:38+00:00,True,
+62120394,Космодром,Dzetta,Человек в космосе,5972812,2018,electronics,247760,2024-01-14T20:10:18+00:00,True,
+45499132,Карусель,"V $ X V PRiNCE, Tony Tonite",A$sorti,12135364,2019,rusrap,210020,2024-01-14T19:55:18+00:00,True,
+18696983,Полеты,25/17,Песни о любви и смерти,1276871,2012,rusrap,184360,2024-01-13T13:45:12+00:00,True,explicit
+120163382,Не терять,DronGo,Не терять,28603104,2023,rusrap,169610,2024-01-13T13:42:26+00:00,True,explicit
+66325486,Astronomia,Tony Igy,Astronomia,10804139,2016,edmgenre,207620,2024-01-13T08:15:17+00:00,True,
+114977282,Соколка,РОДНАЯ РЕЧЬ,Соколка,26379970,2023,rusrap,226280,2024-01-12T15:11:58+00:00,True,
+2191823,Levitate,Hollywood Undead,American Tragedy,2012934,2010,alternativemetal,204190,2024-01-10T13:56:14+00:00,True,explicit
+4304914,I’ll BE GONE,Linkin Park,LIVING THINGS,488133,2012,numetal,211090,2024-01-10T13:51:53+00:00,True,
+112172425,Shambala,M.E.O.W,Shambala,25176601,2023,rap,147870,2024-01-10T13:40:13+00:00,True,explicit
+114170778,ИДОЛ,Gudium,ИДОЛ,26008034,2023,rusrap,157090,2024-01-10T08:07:02+00:00,True,
+116648832,Добрый воин,РОДНАЯ РЕЧЬ,Добрый воин,27075655,2023,rusrap,202750,2024-01-10T08:03:04+00:00,True,
+112292730,Водоворот,UGAROV,Водоворот,25223788,2023,rusrap,158620,2024-01-10T05:30:38+00:00,True,
+60529947,Пока пламя догорает,Kotvitsky,Пока пламя догорает,9357332,2019,rusrap,148530,2024-01-09T07:01:16+00:00,True,
+89616427,СВОБОДА,Kotvitsky,СВОБОДА,17600546,2021,rock,142540,2024-01-07T19:58:12+00:00,True,explicit
+81131098,RUN RUN RUN,VTORNIK,RUN RUN RUN,14956320,2021,rusrap,97640,2024-01-07T19:46:11+00:00,True,explicit
+106595028,Холодная весна,25/17,Одолень,23255928,2022,rusrap,185310,2024-01-07T18:08:35+00:00,True,explicit
+110126700,Тушите свет,"Koles & Paha, PVA",Тушите свет,24418970,2022,rap,138240,2024-01-06T17:26:21+00:00,True,explicit
+118618026,"Там, где я","Aarne, ALBLAK 52, Баста",AA LANGUAGE 2,27928024,2023,rusrap,151800,2024-01-06T17:14:33+00:00,True,explicit
+103602248,молоды,dlb,молоды (buzsquez remix),22182346,2022,electronics,198540,2023-12-30T21:34:34+00:00,True,explicit
+86050065,Kostroma,DJ DimixeR,Kostroma,16491458,2021,dance,145000,2023-12-30T17:05:48+00:00,True,
+106422441,VADA KOPA,EGOPIUM,VADA KOPA,23194565,2022,dance,148360,2023-12-30T17:04:28+00:00,True,
+105749382,Studzianki,GARATZ,Studzianki,22942549,2022,electronics,188370,2023-12-30T16:58:08+00:00,True,
+116471899,НЕ УГАСАЙ,VEYS,НЕ УГАСАЙ,26996063,2023,ruspop,125980,2023-12-30T16:43:47+00:00,True,explicit
+116365999,Dale Don,Hermeth,Turbo Flemme,26949103,2023,electronics,218570,2023-12-30T01:11:32+00:00,True,
+119077275,Кума,TMNV,Кума,28131882,2023,electronics,178280,2023-12-19T18:33:38+00:00,True,
+111300104,PORUSHKA,EGOPIUM,PORUSHKA,24853169,2023,dance,178000,2023-12-18T16:45:34+00:00,True,
+98299205,Ойся ты ойся,Духовность,Ойся ты ойся,34321801,2024,folk,244920,2023-12-17T10:07:31+00:00,True,
+109340202,Ай да Россия,HELVEGEN,Нет пути назад,24205680,2022,folkrock,210490,2023-12-16T20:19:52+00:00,True,
+81292189,Заря,TMNV,Семь действий,15027317,2021,electronics,196100,2023-12-16T19:53:18+00:00,True,explicit
+105243036,На златом крыльце,ХВОЯ,На златом крыльце,22756279,2022,rusfolk,148940,2023-12-16T18:39:13+00:00,True,
+111524618,Мак,Kasha,Мак,24931885,2023,folkgenre,159230,2023-12-16T18:31:53+00:00,True,
+89536067,Речушечка,TMNV,Речушечка,17575437,2021,electronics,167640,2023-12-16T18:29:12+00:00,True,
+59267623,Порушка,"Oligarkh, FOLKBEAT",В леску / Порушка,9068324,2019,rusfolk,193620,2023-12-16T18:25:32+00:00,True,
+45519765,Во горнице,Живица,Миру мир,30916356,2016,folk,141690,2023-12-16T18:21:33+00:00,True,
+43279917,Как по травкам,Uzoritsa,Uzoritsa 2018,5754941,2018,rusfolk,175800,2023-12-16T18:12:32+00:00,True,
+25854602,Напрямки,Рогатый колоколъ,Пуще прежнего,3061406,2015,rusrock,208860,2023-12-16T17:16:59+00:00,True,
+87719395,"Ой, на дворе дождь",ХВОЯ,"Ой, на дворе дождь",16986797,2021,rusfolk,107630,2023-12-16T17:07:24+00:00,True,
+108174016,ДВИНУЛСЯ НА ТЕБЕ,"GRILLYAZH, Кишлак",ДВИНУЛСЯ НА ТЕБЕ,23824715,2022,ruspop,146470,2023-12-12T07:24:03+00:00,True,explicit
+92133060,Dad Vibes,Limp Bizkit,STILL SUCKS,19078802,2021,numetal,132200,2023-12-11T18:51:17+00:00,True,
+116816279,NXSTY BLOOD 2,"Wels, PLXYAE",NXSTY BLOOD 2,27143710,2023,electronics,91840,2023-12-06T18:59:27+00:00,True,explicit
+90557776,Kill The Noise,Papa Roach,Kill The Noise,17914059,2021,numetal,188120,2023-12-06T18:59:07+00:00,True,explicit
+72443017,На территории всей страны,25/17,ВСПОМНИТЬ ВСЁ. Часть 1. Чтиво,12460810,2019,rusrap,219200,2023-12-05T10:02:46+00:00,True,
+72443005,2-5-1-7,25/17,ВСПОМНИТЬ ВСЁ. Часть 1. Чтиво,12460810,2019,rusrap,154060,2023-12-03T15:07:57+00:00,True,explicit
+106597497,ОГНЕЙ,SALUKI,WILD EA$T,25511786,2023,rusrap,181920,2023-12-01T21:40:33+00:00,True,explicit
+114001824,Образ лезгинка,NETSIGNALA,Образ лезгинка,25931888,2023,pop,126660,2023-12-01T08:53:04+00:00,True,
+69356593,Лъапэрисэ,Амиран,Лъапэрисэ,11595413,2020,folk,206350,2023-11-28T05:17:59+00:00,True,
+110198249,LAST CHRISTMAS,"Karry_b, Karry_b, speed up songs, Speed Up Songs",LAST CHRISTMAS,38894114,2025,pop,203220,2023-11-19T13:27:43+00:00,True,
+113268471,верните в моду любовь,две тысячи ярдов,на восьмом жду с нетерпением,25627730,2023,rusrock,131660,2023-11-13T19:27:15+00:00,True,
+68109478,They Fall,Alec Koff,Resistance,11259405,2020,rock,139000,2023-11-13T17:13:57+00:00,True,
+92748167,BREAK YOUR NECK,L19U1D,RAGE,18618724,2021,phonkgenre,116860,2023-11-13T10:46:55+00:00,True,
+106894276,Атмосферно,две тысячи ярдов,Настройка дезориентации в пространстве,23362902,2022,alternative,92280,2023-11-09T03:52:40+00:00,True,explicit
+72291230,Быстро повзрослел,Lizer,"Молодость, Ч. 1",12491744,2020,rusrap,168480,2023-11-09T03:49:00+00:00,True,
+178624,The Sharpest Lives,My Chemical Romance,The Black Parade,21917,2006,alternative,200880,2023-11-07T15:15:18+00:00,True,
+170105,Given Up,Linkin Park,Minutes to Midnight,154525,2007,numetal,189290,2023-11-07T14:54:44+00:00,True,explicit
+71248589,Верю в лучшее,HENSY,Верю в лучшее,12119047,2020,ruspop,122470,2023-11-06T16:50:00+00:00,True,
+79043670,Жить не запретишь,Канги,Том I. «Жить не запретишь»,14702448,2021,rusrap,163960,2023-11-06T16:46:40+00:00,True,
+106940825,Table For Two,Milky Chance,Trip Tape II,23380095,2022,indie,169570,2023-11-04T19:46:13+00:00,True,
+69069,Escape (The Pina Colada Song),Rupert Holmes,Partners In Crime,9499924,2008,pop,277860,2023-10-31T20:59:11+00:00,True,
+29895515,TR 707,"Dabeull, Holybrune",Fonk Delight,3605699,2014,disco,206070,2023-10-31T20:15:51+00:00,True,
+1710818,Don't Stop Me Now,Queen,Jazz,225654,1978,rock,209390,2023-10-31T20:09:31+00:00,True,
+25790,Lay All Your Love On Me,ABBA,Super Trouper,3216,1980,pop,272500,2023-10-31T19:46:10+00:00,True,
+439825,L O V E,Michael Bublé,Call Me Irresponsible,9239516,2007,vocaljazz,170770,2023-10-31T19:43:09+00:00,True,
+25963,Can't Take My Eyes Off You,Engelbert Humperdinck,A Man Without Love,4385271,1968,relax,216900,2023-10-31T19:38:09+00:00,True,
+117929984,Стоп Игра,ЛСП,Несчастные люди,27623312,2023,rusrap,176060,2023-10-31T15:08:18+00:00,True,
+117960576,Позвони,25/17,Радость встреч и расставаний,27634457,2023,rusrap,315960,2023-10-31T09:27:48+00:00,True,
+117960574,Хлопок,25/17,Радость встреч и расставаний,27634457,2023,rusrap,234450,2023-10-31T04:13:55+00:00,True,
+96341233,Never Coming Back,"Dabeull, Sofiane Pamart, Dee Eye",Loving Life,19732108,2021,electronics,129680,2023-10-30T14:36:38+00:00,True,
+62706603,Borderline,Tame Impala,The Slow Rush,9910541,2020,rock,237790,2023-10-29T14:45:47+00:00,True,
+82213054,Messages from the Stars,"Dabeull, Rude Jude, Holybrune",Messages from the Stars,15329280,2021,rnb,166000,2023-10-26T20:17:39+00:00,True,
+106367906,УЛЫБАТЬСЯ,GRILLYAZH,УЛЫБАТЬСЯ,23174554,2022,rusrap,170230,2023-10-26T19:50:39+00:00,True,
+113182238,Вечная весна,ЛСП,Несчастные люди,27623312,2023,rusrap,167880,2023-10-26T19:19:44+00:00,True,
+72545250,В жизни так бывает,Lizer,"Молодость, Ч. 1",12491744,2020,rusrap,214640,2023-10-26T17:53:56+00:00,True,
+52140960,Улица,Lizer,Не ангел,7321930,2019,rusrap,205480,2023-10-26T03:41:50+00:00,True,
+77491165,Верю,Lizer,ТЕПЛО,13743884,2021,rusrap,162020,2023-10-25T14:56:37+00:00,True,
+92607049,Тени Хиросимы,GONE.Fludd,DIGITAL FANTAZY,18572919,2021,rusrap,134180,2023-10-23T21:19:01+00:00,True,
+100526391,Вольта,"TAPENIGHT, ЛАУД",Вольта,21106881,2022,ruspop,186880,2023-10-22T08:25:01+00:00,True,
+33395002,Stayin’ Alive,Bee Gees,Saturday Night Fever,4825498,1977,soundtrack,297920,2023-10-20T21:27:08+00:00,True,
+72545247,Характер,Lizer,"Молодость, Ч. 1",12491744,2020,rusrap,213090,2023-10-20T18:15:26+00:00,True,explicit
+88871455,Monster,NICKY ØDESSA,Monster,17357351,2021,electronics,232430,2023-10-20T17:29:45+00:00,True,
+793024,Say It,Blue October,Approaching Normal,88425,2009,rock,218640,2023-10-20T17:22:05+00:00,True,explicit
+25364770,Wild World,Me First And The Gimme Gimmes,Blow in the Wind,2989443,2001,rock,150570,2023-10-20T17:16:25+00:00,True,
+63544666,Fell For You,Ship Wrek,Mirror Mirror,10120993,2020,dance,178360,2023-10-19T03:46:19+00:00,True,explicit
+75049870,На обратной стороне земли,Дора,"Боже, храни кьют-рок",13158280,2020,ruspop,250750,2023-10-16T19:48:56+00:00,True,
+64365946,Под утро,CAPTOWN,Под утро,10332344,2020,rusrap,180480,2023-10-14T20:06:12+00:00,True,explicit
+84517789,Back In Love City,The Vaccines,Back In Love City,17591056,2021,alternative,213880,2023-10-14T19:46:32+00:00,True,
+106246811,Ворк слип репит 2,КУОК,Imago,23135256,2022,rusrap,152050,2023-10-12T21:17:37+00:00,True,
+48785174,Как будто тут,"IDAN, Markul",Плот Моего Воображения 2: Вакуум,6655277,2018,rusrap,184810,2023-10-12T20:26:23+00:00,True,
+108549710,Город,GONE.Fludd,Поколение Брат,23955910,2022,rusrap,128940,2023-10-12T19:53:14+00:00,True,
+115451099,Самый пьяный округ в мире,MACAN,Самый пьяный округ в мире,26579125,2023,rusrap,126940,2023-10-12T19:21:34+00:00,True,
+111399226,Старые снимки,Koles & Paha,Старые снимки,24887817,2023,rusrap,126720,2023-10-12T19:14:54+00:00,True,
+89775312,Welcome To The People,Jaded,Welcome To The People,17651991,2021,dance,160660,2023-10-11T19:46:29+00:00,True,
+97259570,Неоновое небо,"GSPD, DEAD BLONDE",Старые песни о главном,40965008,2021,dance,205440,2023-10-11T19:40:49+00:00,True,
+98331065,Hollow Point,Pozle,Tales of Preyas,20405354,2022,rap,120000,2023-10-11T19:24:06+00:00,True,explicit
+116652531,Поспешили,"MACAN, Jakone",Поспешили,27076894,2023,rusrap,126720,2023-10-11T19:06:46+00:00,True,explicit
+18696976,На волне,25/17,На волне,1275098,2012,rusrap,230170,2023-10-11T18:56:28+00:00,True,
+51379707,По Планете,"Basic Boy, Lizer",SUPERWORLD,7162677,2019,rusrap,211680,2023-10-10T18:00:08+00:00,True,
+108223183,Мрак,"DenDerty, ЛСП",Мрак,23843867,2022,rusrock,163070,2023-10-10T17:54:08+00:00,True,
+13184768,The Innocent,Mayer Hawthorne,Where Does This Door Go,1432938,2013,funk,202600,2023-10-05T06:07:01+00:00,True,
+101614897,Do It For LA (LAFC Anthem),"DJ Flict, Kid Ink, B-Real",Do It For LA (LAFC Anthem),21448074,2022,rap,154220,2023-09-30T19:22:47+00:00,True,
+82802447,Запомни меня,OLEHAN,Запомни меня,15514369,2021,ruspop,118800,2023-09-29T21:23:53+00:00,True,
+96341232,Bad Boys Good Sons,"Dabeull, Sofiane Pamart, Rilès",Loving Life,19732108,2021,electronics,157770,2023-09-25T16:37:48+00:00,True,
+20793875,Eye Of The Tiger,Survivor,Race Hits 2022,19997910,2021,pop,233530,2023-09-21T20:35:42+00:00,True,clean
+9769,I Was Made For Lovin' You,Kiss,Dynasty,2463,1979,rock,268440,2023-09-21T20:29:02+00:00,True,
+50195934,"I'm Good Luv, Enjoy.",Aaron May,CHASE,6947484,2019,rap,134540,2023-09-21T20:15:01+00:00,True,explicit
+106075844,BDA - D A Y,"Jidanofu, Pozle",BDA - D A Y,23067340,2022,rap,160190,2023-09-20T19:41:29+00:00,True,explicit
+14263055,Thunderstruck,Band In Black,The Greatest Ac/Dc Salute,1554320,2013,rock,295390,2023-09-20T15:43:50+00:00,True,
+3717105,Thunderstruck,Thunderstruck,Classic Covers Vol 3,416668,2011,rock,290710,2023-09-19T06:55:54+00:00,True,
+4350998,Highway to Hell,Back In Black,Back in Black,493778,2012,rock,207790,2023-09-19T06:27:19+00:00,True,
+9052990,Voodoo People,"The Prodigy, Pendulum",Their Law: The Singles 1990-2005,3655005,2005,breakbeatgenre,307810,2023-09-19T06:22:39+00:00,True,
+12694708,Nine Thou,"Styles of Beyond, Grant Mohrman",Grant Mohrman Remixes,11362898,2020,rap,243040,2023-09-19T06:18:59+00:00,True,explicit
+69805554,Put A Record On,Noisy,I Wish I Was A...,12416487,2020,alternative,181490,2023-09-19T06:09:19+00:00,True,explicit
+9394359,My Favorite Game,The Hit Co.,Monsters of Halloween: Wicked Witch Wild Party Music,995259,2006,pop,217940,2023-09-19T04:16:54+00:00,True,
+38157634,Soul Doubt,$uicideboy$,I No Longer Fear the Razor Guarding My Heel (III),13516170,2016,rap,120030,2023-09-17T15:39:41+00:00,True,explicit
+114287674,HOME,Christopher Damas,HOME,26063287,2023,dance,110240,2023-09-13T14:46:02+00:00,True,
+84955750,Russia,SXGXVX,Criminal Russia,16161101,2021,rap,115670,2023-09-13T12:01:21+00:00,True,explicit
+772449,Night After Night (Out Of The Shadows),The Rasmus,Dead Letters,7886116,2003,alternative,224520,2023-09-12T12:23:24+00:00,True,
+24134105,Don't Wait Up,Robert DeLong,In the Cards,6822245,2015,electronics,234630,2023-09-12T12:08:24+00:00,True,
+85546302,Make an Entrance,All Fires,Make an Entrance,25358396,2023,alternative,187000,2023-09-12T11:56:04+00:00,True,
+64357957,В Зените,Ленинград,В Зените,6129352,2018,rusrock,205270,2023-09-10T21:10:51+00:00,True,
+654151,The Kids Aren't Alright,The Offspring,Americana,180107,1998,punk,179760,2023-09-10T20:21:17+00:00,True,
+92919200,Бог с русскими,Илья Соболев,Бог с русскими,18670603,2021,rusrap,171210,2023-09-10T19:58:56+00:00,True,explicit
+103611595,R.A.V.E.A.S.A.P,"Gardna, Drs",Time & Space,22191208,2022,dance,180000,2023-09-10T14:59:27+00:00,True,explicit
+114546802,ТЕРЯЮ ТЕБЯ,"GSPD, DEAD BLONDE",СПОРТ РЕЖИМ: ЗЕЛЁНЫЙ СВЕТ,26170997,2023,dance,203580,2023-09-09T13:22:09+00:00,True,
+107157175,МАНУАЛЬНЫЙ ТЕРАПЕВТ,GRILLYAZH,МАНУАЛЬНЫЙ ТЕРАПЕВТ,23462072,2022,ruspop,146180,2023-09-09T13:22:09+00:00,True,
+114053718,НАУЧИ ПЛОХОМУ,"GSPD, DEAD BLONDE",СПОРТ РЕЖИМ: КРАСНЫЙ СВЕТ,40963762,2023,dance,162650,2023-09-08T16:59:54+00:00,True,
+111226186,CENTIPEDE,Haarper,CENTIPEDE,24825789,2022,phonkgenre,117060,2023-09-06T19:41:57+00:00,True,explicit
+95078556,Vaas,MAKAVELIGODD,Tian,19355838,2020,rap,99650,2023-09-06T19:18:57+00:00,True,explicit
+114222160,Растает снег,"Chernoburkv, Sensi Affect",Checkpoint,26033075,2023,electronics,180310,2023-09-05T16:40:22+00:00,True,
+92308429,COME OUT BITCH I'M WAITING FOR YOU,FOVLA,COME OUT BITCH I'M WAITING FOR YOU,18480075,2021,rap,147220,2023-09-05T16:35:47+00:00,True,explicit
+114053717,ЗАБЕРИ МОЮ МОЛОДОСТЬ,GSPD,СПОРТ РЕЖИМ: КРАСНЫЙ СВЕТ,40963762,2023,dance,183270,2023-09-02T10:23:16+00:00,True,
+115004695,PUSSY MP3,"THE DAWLESS, Dopefisher",BROKEN AUX,26393320,2023,electronics,246500,2023-09-02T10:13:16+00:00,True,
+70947892,FASTLANE,TVETH,FASTLANE,12036746,2020,rusrap,120000,2023-09-02T10:12:56+00:00,True,explicit
+102497767,Og Loc,MCR-T,4 THA CULTURE,31925407,2021,techno,133710,2023-09-02T10:11:12+00:00,True,
+91121293,Танцую В Темноте,ЛАУД,Танцую В Темноте,18097692,2021,rusrap,165500,2023-09-01T18:18:18+00:00,True,
+71140602,I Just Died in Your Arms,SecondShot,One Foot out the Door,12088567,2005,rock,193460,2023-08-31T16:27:59+00:00,True,
+113663204,Когда рядом ты,ЛАУД,NO STRESS,25801325,2023,dance,112900,2023-08-31T00:56:27+00:00,True,explicit
+93380073,Biscuit,Shakewell,Biscuit,18806466,2021,rap,115650,2023-08-30T07:38:14+00:00,True,explicit
+116262263,ЛЕТНИЙ БАЛКОН,GRILLYAZH,ЛЕТНИЙ БАЛКОН,26903725,2023,ruspop,158760,2023-08-29T19:33:49+00:00,True,
+80535526,Fictional Justice,Oh Gasm!,Fictional Justice,14761531,2021,rap,109750,2023-08-29T11:16:56+00:00,True,explicit
+113483384,Космолёт,Koles & Paha,Космолёт,25721966,2023,rap,124830,2023-08-28T00:16:36+00:00,True,explicit
+114546806,NO PROBLEM,"GSPD, CMH",СПОРТ РЕЖИМ: ЗЕЛЁНЫЙ СВЕТ,26170997,2023,dance,137440,2023-08-28T00:09:56+00:00,True,
+75722321,Beeswax,Chosin Few,Hydra,13324223,2021,rap,89160,2023-08-27T19:30:55+00:00,True,explicit
+99603150,Boomer Phonk,TONY MOTARO,Boomer Phonk,20825294,2023,rap,128110,2023-08-22T18:04:45+00:00,True,explicit
+105535113,Far Away,Solo Made,Far Away,22868723,2022,electronics,138500,2023-08-19T09:29:53+00:00,True,
+114546805,АМНЕЗИЯ,GSPD,СПОРТ РЕЖИМ: ЗЕЛЁНЫЙ СВЕТ,26170997,2023,dance,179070,2023-08-18T20:13:10+00:00,True,
+111104789,РТУТЬ,GRILLYAZH,FAKE TAXI,25103054,2023,ruspop,142750,2023-08-18T20:09:29+00:00,True,
+71079281,Всё огонь,VISHNEV,Всё огонь,12070818,2020,ruspop,128510,2023-08-17T15:53:41+00:00,True,
+108228379,SMOKED TIRES,NIGHTMORSS,SMOKED TIRES,23845861,2022,phonkgenre,156210,2023-08-17T08:52:05+00:00,True,explicit
+61701915,Последнее свидание,Стереополина,Институт культуры и отдыха,14428952,2020,local-indie,168540,2023-08-16T21:17:18+00:00,True,
+93954492,SECRET,NIGHTMORSS,SECRET,28162581,2021,phonkgenre,111240,2023-08-09T20:09:34+00:00,True,explicit
+106576983,КЕДЫ,GRILLYAZH,КЕДЫ,23248363,2022,ruspop,142150,2023-08-06T19:45:11+00:00,True,
+103813996,ГРЕЧКА,GRILLYAZH,ГРЕЧКА,22250866,2022,ruspop,125550,2023-08-06T19:42:11+00:00,True,
+101371514,Огни,"ANIKV, SALUKI",Огни,21367837,2022,ruspop,146520,2023-07-28T16:32:55+00:00,True,
+18697009,Ч.Б.,25/17,Зебра,1276869,2010,rusrap,212260,2023-07-28T15:38:22+00:00,True,
+18697035,Два пять один семь,25/17,Только для своих,1276870,2009,rusrap,143000,2023-07-14T13:06:05+00:00,True,
+97840612,Искренности,"yef, Badda Boo",Искренности,20220979,2021,electronics,155870,2023-07-08T19:53:03+00:00,True,
+54719,Thnks fr th Mmrs,Fall Out Boy,Infinity On High,6218,2007,alternative,203500,2023-07-08T09:59:43+00:00,True,
+170212,Bleed It Out,Linkin Park,Minutes to Midnight,154525,2007,numetal,164760,2023-07-07T16:41:34+00:00,True,explicit
+77381490,Инопланетяне,просто Лера,ПОГОДА ЛЮБИТЬ,28132267,2021,ruspop,172490,2023-07-07T15:15:05+00:00,True,
+314191,Can't Get You Out Of My Head,Kylie Minogue,Step Back In Time: The Definitive Collection,40382549,2019,pop,230640,2023-07-06T06:22:16+00:00,True,
+512793,First Day,Timo Maas,Pictures,54848,2005,pop,232370,2023-07-06T06:14:35+00:00,True,explicit
+133052,Believe Me,"Fort Minor, Bobo, Styles of Beyond",The Rising Tied,28567839,2023,rap,228920,2023-07-06T06:03:15+00:00,True,
+18697030,На городской карте,25/17,Только для своих,1276870,2009,rusrap,202040,2023-07-06T04:56:14+00:00,True,
+108864889,Банкомат,DEAD BLONDE,СПЛЕТНИЦА,24070292,2022,ruspop,199280,2023-05-26T21:21:46+00:00,True,
+78198730,Мне не нравится,dlb,11 литров воды,13952562,2021,dance,140670,2023-05-26T12:04:19+00:00,True,
+101224806,Clap Your Hands,Kungs,Clap Your Hands,21321346,2022,dance,189880,2022-10-29T13:24:17+00:00,True,
+3891849,Hot Right Now,DJ Fresh,Hot Right Now,436791,,,182330,2022-10-29T13:14:56+00:00,True,
+103128946,Balling,"Vibe Chemistry, Songer, Mr Traumatik, Devilman, OneDa",Balling,22010715,2022,dance,266200,2022-10-28T14:32:37+00:00,True,explicit
+36329116,Show Me,"Ryan Blyth, After 6, Malisha Bleau",Show Me,5161516,2016,electronics,179530,2022-10-28T14:23:57+00:00,True,
+4427406,The Magic Key,One-T,The One-T ODC,503949,2009,rap,228700,2022-08-12T11:06:39+00:00,True,
+91715973,Hung Up,"JKRS, AIZZO",Hung Up,18294513,2021,electronics,142020,2022-08-07T19:49:32+00:00,True,
+90315461,HABITS,Ember Skye,HABITS,39783456,2024,dance,126310,2022-08-07T19:42:30+00:00,True,
+81924969,Бесприданница,DEAD BLONDE,Княжна из хрущёвки,16554671,2021,ruspop,180920,2022-08-04T20:06:02+00:00,True,
+64630512,SexyBack,Huts,SexyBack,10396530,2020,dance,158080,2022-08-04T18:53:41+00:00,True,
+105134587,Чувствую тебя,"KASHIN, Lima Osta",Чувствую тебя,22715860,2019,electronics,227440,2022-07-31T20:10:34+00:00,True,
+10304527,A Little Party Never Killed Nobody (All We Got),"Fergie, Q-Tip, GoonRock",Music From Baz Luhrmann's Film The Great Gatsby,14030840,2013,soundtrack,240730,2022-07-30T11:30:24+00:00,True,
+4116,Heads Will Roll,Yeah Yeah Yeahs,It's Blitz!,88434,2009,alternative,221000,2022-07-30T11:28:04+00:00,True,explicit
+83089282,Heads Will Roll,"Beatmount, ONEIL",Heads Will Roll,15606558,2021,electronics,156560,2022-07-28T20:00:17+00:00,True,
+93515041,in heat.,"Hentai Xander, Alejandro",in heat.,18848774,2021,electronics,170620,2022-07-28T19:48:34+00:00,True,explicit
+87653668,Bang,"Vitor Bueno, Unklfnkl, Jetlag Music",Bang,24583850,2021,electronics,143540,2022-07-28T15:29:01+00:00,True,
